@@ -50,7 +50,7 @@ export default function Header() {
       >
         <Popover.Panel
           focus
-          className="absolute top-0 right-0 bottom-0 p-2 w-1/3 h-screen transform"
+          className="absolute top-0 right-0 bottom-0 p-2 w-fullmd:w-1/3 h-screen transform"
         >
           <div className="h-full rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-darkbg-dark divide-y-2 divide-gray-50">
             <div className="pt-5 pb-6 px-5">
