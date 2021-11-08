@@ -1,6 +1,6 @@
 /* This example requires Tailwind CSS v2.0+ */
-import React, { Fragment } from 'react';
-import { Popover, Transition } from '@headlessui/react';
+import React, { Fragment } from "react";
+import { Popover, Transition } from "@headlessui/react";
 import {
   ChartBarIcon,
   CursorClickIcon,
@@ -10,12 +10,12 @@ import {
   ShieldCheckIcon,
   ViewGridIcon,
   XIcon,
-} from '@heroicons/react/outline';
-import { ChevronDownIcon } from '@heroicons/react/solid';
+} from "@heroicons/react/outline";
+import { ChevronDownIcon } from "@heroicons/react/solid";
 
 export default function Header() {
   const classNames = (...classes) => {
-    return classes.filter(Boolean).join(' ');
+    return classes.filter(Boolean).join(" ");
   };
 
   return (
@@ -24,11 +24,7 @@ export default function Header() {
         <div>
           <a href="#" className="flex">
             <span className="sr-only">The Richie Group</span>
-            <img
-              className="h-8 w-auto sm:h-10"
-              src="/assets/TheRitchieGroup_logo (Edited) (1).png"
-              alt=""
-            />
+            <img className="h-8 w-auto sm:h-10" src="logo.png" alt="" />
           </a>
         </div>
         <div className="-mr-2 -my-2">
@@ -50,7 +46,7 @@ export default function Header() {
       >
         <Popover.Panel
           focus
-          className="absolute top-0 right-0 bottom-0 p-2 w-fullmd:w-1/3 h-screen transform"
+          className="absolute top-0 right-0 bottom-0 p-2 w-full md:w-1/3 h-screen transform"
         >
           <div className="h-full rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-darkbg-dark divide-y-2 divide-gray-50">
             <div className="pt-5 pb-6 px-5">
