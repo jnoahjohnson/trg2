@@ -1,6 +1,6 @@
 /* This example requires Tailwind CSS v2.0+ */
-import React, { Fragment } from "react";
-import { Popover, Transition } from "@headlessui/react";
+import React, { Fragment } from 'react';
+import { Popover, Transition } from '@headlessui/react';
 import {
   ChartBarIcon,
   CursorClickIcon,
@@ -10,12 +10,12 @@ import {
   ShieldCheckIcon,
   ViewGridIcon,
   XIcon,
-} from "@heroicons/react/outline";
-import { ChevronDownIcon } from "@heroicons/react/solid";
+} from '@heroicons/react/outline';
+import { ChevronDownIcon } from '@heroicons/react/solid';
 
 export default function Header() {
   const classNames = (...classes) => {
-    return classes.filter(Boolean).join(" ");
+    return classes.filter(Boolean).join(' ');
   };
 
   return (
@@ -24,7 +24,11 @@ export default function Header() {
         <div>
           <a href="#" className="flex">
             <span className="sr-only">The Richie Group</span>
-            <img className="h-8 w-auto sm:h-10" src="/assets/logo.png" alt="" />
+            <img
+              className="h-8 w-auto sm:h-10"
+              src="/assets/logo.png"
+              alt="The Richie Group"
+            />
           </a>
         </div>
         <div className="-mr-2 -my-2">
