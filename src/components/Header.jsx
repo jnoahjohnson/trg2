@@ -24,7 +24,11 @@ export default function Header() {
         <div>
           <a href="#" className="flex">
             <span className="sr-only">The Richie Group</span>
-            <img className="h-8 w-auto sm:h-10" src="/assets/logo.png" alt="" />
+            <img
+              className="h-8 w-auto sm:h-10"
+              src="/assets/TheRitchieGroup_logo (Edited) (1).png"
+              alt=""
+            />
           </a>
         </div>
         <div className="-mr-2 -my-2">
