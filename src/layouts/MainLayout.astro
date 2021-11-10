@@ -1,0 +1,19 @@
+---
+import Header from '../components/Header'
+---
+
+<html>
+    <head>
+        <link
+            rel="stylesheet"
+            href={Astro.resolve("../styles/global.css")}
+        >
+    </head>
+    <Header />
+    <body>
+        <slot />
+    </body>
+    <footer>
+        <p>This is the footer</p>
+    </footer>
+</html>
