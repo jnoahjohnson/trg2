@@ -1,16 +1,19 @@
 ---
 import Header from '../components/Header'
+let title = 'My Astro Site';
 ---
 
-<html>
+<html lang="en" class="bg-dark-bg">
     <head>
-        <link
-            rel="stylesheet"
-            href={Astro.resolve("../styles/global.css")}
-        >
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+            <title>{title}</title>
+
+            <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="stylesheet" href={Astro.resolve("../styles/global.css")}>
     </head>
-    <Header />
-    <body>
+    <Header client:load />
+    <body class="overflow-hidden">
         <slot />
     </body>
     <footer>
