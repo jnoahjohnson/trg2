@@ -53,8 +53,8 @@ export default function Header() {
           className="absolute top-0 right-0 bottom-0 p-2 w-full md:w-1/3 h-screen transform"
         >
           <div className="h-full rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-darkbg-dark divide-y-2 divide-gray-50">
-            <div className="pt-5 pb-6 px-5">
-              <div className="flex items-center justify-end">
+            <div className="pt-16 pb-6 px-5 h-full relative">
+              <div className="absolute top-6 right-6">
                 <div className="-mr-2">
                   <Popover.Button className="rounded-md p-2 inline-flex items-center justify-center text-gray-200 hover:text-gray-400  focus:outline-none focus:ring-2 focus:ring-inset focus:ring-sushi">
                     <span className="sr-only">Close menu</span>
@@ -62,7 +62,7 @@ export default function Header() {
                   </Popover.Button>
                 </div>
               </div>
-              <div className="mt-12">
+              <div className="h-full flex flex-col justify-between">
                 <nav className="grid gap-6">
                   <a
                     href="#"
@@ -85,6 +85,9 @@ export default function Header() {
                     Enterprise
                   </a>
                 </nav>
+                <p className="text-gray-300 text-sm">
+                  © The Ritchie Group 2021. All Rights Resevered
+                </p>
               </div>
             </div>
           </div>
