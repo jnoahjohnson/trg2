@@ -8,7 +8,7 @@ export default function Hero() {
         className="w-full h-full object-cover object-center absolute inset-0"
       />
       <div className="max-w-5xl w-full h-full mx-auto relative px-4 py-6">
-        <div className="h-full w-max bg-darkbg bg-opacity-50 px-4 py-6 relative flex flex-col items-start justify-between border-sushi border-solid border-4">
+        <div className="h-full w-max bg-darkbg bg-opacity-50 px-12 py-6 relative flex flex-col items-start justify-between border-sushi border-solid border-4">
           <div>
             <h1 className="font-semibold text-md text-white uppercase mb-2">
               Industrial
