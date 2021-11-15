@@ -13,10 +13,108 @@ import Header from "../components/Header.jsx";
 // Full Astro Component Syntax:
 // https://docs.astro.build/core-concepts/astro-components/
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/Hero";
+import Testimonials from "../components/Testimonials.astro";
 ---
 
 <MainLayout>
   <main>
-    <Tour />
+    <Hero />
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-8 gap-6"
+    >
+      <div class="flex items-center justify-start md:justify-center w-full">
+        <div
+          class="w-32 h-32 border-solid border-sushi border-4 flex items-center"
+        >
+          <h2 class="text-7xl font-bold ml-6">300</h2>
+        </div>
+        <div class="w-16"></div>
+        <div class="h-full flex items-center font-normal text-lg w-min">
+          <h1>Number of<br />Apartments</h1>
+        </div>
+      </div>
+      <img src="/images/num-ap.jpg" class="w-full h-auto" />
+    </div>
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-12 gap-6"
+    >
+      <div
+        class="flex items-center justify-start md:justify-center w-full md:col-start-2"
+      >
+        <div
+          class="w-32 h-32 border-solid border-sushi border-4 flex items-center"
+        >
+          <h2 class="text-7xl font-bold ml-10">21</h2>
+        </div>
+        <div class="w-4"></div>
+        <div class="h-full flex items-center font-normal text-lg">
+          <h1>Projects in<br />Process</h1>
+        </div>
+      </div>
+      <img
+        src="/images/projects-prog.jpg"
+        class="w-full h-auto md:col-start-1 md:row-start-1"
+      />
+    </div>
+    <div class="px-4 max-w-5xl mx-auto py-8">
+      <h1 class="text-3xl font-bold mb-4">Project Highlights</h1>
+      <ul class="italic flex gap-6 mb-2">
+        <li><a href="/projects">Multi-Family</a></li>
+        <li><a href="/projects">Industrial</a></li>
+        <li><a href="/projects">Hospitality</a></li>
+      </ul>
+      <a class="text-gray-400" href="/projects">View All Projects</a>
+
+      <div
+        class="relative w-full h-112 flex items-end p-6 mt-4 hover:text-white text-sushi transition-all duration-300"
+      >
+        <img
+          src="/images/num-ap.jpg"
+          class="object-cover w-full h-full absolute inset-0"
+        />
+        <div
+          class="absolute inset-0 bg-gray-500 mix-blend-multiply hover:bg-sushi transition-all duration-300"
+        >
+        </div>
+        <div class="relative">
+          <h1 class="text-3xl font-bold">Midtown 360</h1>
+          <p class="text-white">See Project <span>{">"}</span></p>
+        </div>
+      </div>
+    </div>
+    <div class="px-4 max-w-5xl mx-auto py-8">
+      <h1 class="text-3xl font-bold mb-1">Latest News</h1>
+      <a class="text-gray-400" href="/projects">All Articles</a>
+      <div
+        class="relative w-full h-112 flex items-end p-6 mt-4 transition-all duration-300"
+      >
+        <!-- <img
+          src="/images/num-ap.jpg"
+          class="object-cover w-full h-full absolute inset-0"
+        /> -->
+        <div
+          class="absolute inset-0 bg-gray-500 mix-blend-multiply hover:bg-sushi transition-all duration-300"
+        >
+        </div>
+        <div class="relative">
+          <p class="text-gray-400">December 15th, 2016</p>
+          <h1 class="text-3xl font-bold mb-1">
+            Discover Architecture of Bario
+          </h1>
+          <p class="text-gray-300 mb-2">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+            id sit a aut consequuntur! Officia quae dolores molestias, et
+            voluptates, in, corrupti quia soluta aliquam aperiam sint sit illo?
+            Quo?
+          </p>
+          <a href="#" class="text-white">Continue</a>
+        </div>
+      </div>
+    </div>
+    <div class="px-4 max-w-5xl mx-auto py-8">
+      <h1 class="text-3xl font-bold mb-6">Comments From Our Clients</h1>
+      <Testimonials />
+    </div>
   </main>
 </MainLayout>

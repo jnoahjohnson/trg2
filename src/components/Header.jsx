@@ -19,8 +19,8 @@ export default function Header() {
   };
 
   return (
-    <Popover className="relative bg-darkbg">
-      <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:space-x-10 max-w-7xl m-auto">
+    <Popover className="relative bg-darkbg z-10">
+      <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:space-x-10 max-w-6xl m-auto">
         <div>
           <a href="#" className="flex">
             <span className="sr-only">The Richie Group</span>

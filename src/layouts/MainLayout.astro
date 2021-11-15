@@ -1,24 +1,23 @@
 ---
-import Header from '../components/Header.jsx'
-let title = 'My Astro Site';
+import Header from "../components/Header.jsx";
+import Footer from "../components/Footer.astro";
+let title = "My Astro Site";
 ---
 
 <html lang="en" class="bg-dark-bg">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-            <title>{title}</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title}</title>
 
-            <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-        <link rel="stylesheet" href={Astro.resolve("../styles/global.css")}>
-    </head>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href={Astro.resolve("../styles/global.css")} />
+  </head>
+  <body class="overflow-x-hidden bg-darkbg text-white">
     <header>
-        <Header client:load />
+      <Header client:load />
     </header>
-    <body class="overflow-hidden">
-        <slot />
-    </body>
-    <footer>
-        <p>This is the footer</p>
-    </footer>
+    <slot />
+  </body>
+  <Footer />
 </html>
