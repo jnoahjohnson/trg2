@@ -19,7 +19,7 @@ export default function Header() {
   };
 
   return (
-    <Popover className="relative bg-darkbg z-10">
+    <Popover className="relative bg-darkbg z-10 h-full">
       <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:space-x-10 max-w-6xl m-auto">
         <div>
           <a href="#" className="flex">
@@ -50,9 +50,9 @@ export default function Header() {
       >
         <Popover.Panel
           focus
-          className="absolute top-0 right-0 bottom-0 p-2 w-full md:w-1/3 h-screen transform"
+          className="absolute top-0 right-0 bottom-0 p-2 w-full md:w-1/3 h-screen transform overflow-visible"
         >
-          <div className="h-full rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-darkbg-dark divide-y-2 divide-gray-50">
+          <div className="h-full rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-darkbg divide-y-2 divide-gray-50">
             <div className="pt-16 pb-6 px-5 h-full relative">
               <div className="absolute top-6 right-6">
                 <div className="-mr-2">
