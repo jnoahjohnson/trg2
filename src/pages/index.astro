@@ -17,6 +17,7 @@ import Hero from "../components/Hero";
 import Testimonials from "../components/Testimonials.astro";
 import NewsCard from "../components/NewsCard.astro";
 import ProjectCard from "../components/ProjectCard.astro";
+import projects from "../data/projects.json";
 ---
 
 <MainLayout>
@@ -68,9 +69,13 @@ import ProjectCard from "../components/ProjectCard.astro";
         <li><a href="/projects">Hospitality</a></li>
       </ul>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
-        <ProjectCard />
-        <ProjectCard />
-        <ProjectCard />
+        {projects.map((project) => (
+          <ProjectCard
+            title={project.title}
+            image={project.image}
+            link={project.link}
+          />
+        ))}
       </div>
       <div class="text-center">
         <a
