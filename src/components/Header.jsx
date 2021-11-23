@@ -64,26 +64,29 @@ export default function Header() {
               </div>
               <div className="h-full flex flex-col justify-between">
                 <nav className="grid gap-6">
+               
+                    
                   <a
                     href="#"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
-                    Pricing
+                    Projects
                   </a>
 
                   <a
                     href="#"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
-                    Docs
+                    About Us
                   </a>
 
                   <a
                     href="#"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
-                    Enterprise
+                    Investors
                   </a>
+                  
                 </nav>
                 <div>
                   <div className="flex gap-4 mb-4">
