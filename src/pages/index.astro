@@ -13,10 +13,84 @@ import Header from "../components/Header.jsx";
 // Full Astro Component Syntax:
 // https://docs.astro.build/core-concepts/astro-components/
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/Hero";
+import Testimonials from "../components/Testimonials.astro";
+import NewsCard from "../components/NewsCard.astro";
+import ProjectCard from "../components/ProjectCard.astro";
 ---
 
 <MainLayout>
   <main>
-    <Tour />
+    <Hero />
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-8 gap-6"
+    >
+      <div class="flex items-center justify-start md:justify-center w-full">
+        <div
+          class="w-32 h-32 border-solid border-sushi border-4 flex items-center"
+        >
+          <h2 class="text-7xl font-bold ml-6">300</h2>
+        </div>
+        <div class="w-16"></div>
+        <div class="h-full flex items-center font-normal text-lg w-min">
+          <h1>Number of<br />Apartments</h1>
+        </div>
+      </div>
+      <img src="/images/num-ap.jpg" class="w-full h-auto" />
+    </div>
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-12 gap-6"
+    >
+      <div
+        class="flex items-center justify-start md:justify-center w-full md:col-start-2"
+      >
+        <div
+          class="w-32 h-32 border-solid border-sushi border-4 flex items-center"
+        >
+          <h2 class="text-7xl font-bold ml-10">21</h2>
+        </div>
+        <div class="w-4"></div>
+        <div class="h-full flex items-center font-normal text-lg">
+          <h1>Projects in<br />Process</h1>
+        </div>
+      </div>
+      <img
+        src="/images/projects-prog.jpg"
+        class="w-full h-auto md:col-start-1 md:row-start-1"
+      />
+    </div>
+    <div class="px-4 max-w-5xl mx-auto py-8">
+      <h1 class="text-3xl font-bold mb-2">Project Highlights</h1>
+      <ul class="italic flex gap-6 mb-1">
+        <li><a href="/projects">All</a></li>
+        <li><a href="/projects">Multi-Family</a></li>
+        <li><a href="/projects">Industrial</a></li>
+        <li><a href="/projects">Hospitality</a></li>
+      </ul>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+        <ProjectCard />
+        <ProjectCard />
+        <ProjectCard />
+      </div>
+      <div class="text-center">
+        <a
+          class="text-gray-200 bg-gray-600 hover:bg-gray-700 px-4 py-2 inline-block"
+          href="/projects">View All Projects</a
+        >
+      </div>
+    </div>
+    <div class="px-4 max-w-5xl mx-auto py-8">
+      <h1 class="text-3xl font-bold mb-1">Latest News</h1>
+      <a class="text-gray-400" href="/projects">All Articles</a>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
+        <NewsCard />
+        <NewsCard />
+        <NewsCard />
+      </div>
+    </div>
+    <div class="px-4 max-w-5xl mx-auto py-8">
+      <h1 class="text-3xl font-bold mb-6">Comments From Our Clients</h1>
+      <Testimonials />
+    </div>
   </main>
 </MainLayout>
