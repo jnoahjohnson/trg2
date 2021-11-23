@@ -22,12 +22,12 @@ export default function Header() {
     <Popover className="relative bg-darkbg">
       <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:space-x-10 max-w-7xl m-auto">
         <div>
-          <a href="#" className="flex">
-            <span className="sr-only">The Richie Group</span>
+          <a href="../index.astro" className="flex">
+            <span className="sr-only">The Ritchie Group</span>
             <img
               className="h-8 w-auto sm:h-10"
               src="/assets/logo.png"
-              alt="The Richie Group"
+              alt="The Ritchie Group"
             />
           </a>
         </div>
