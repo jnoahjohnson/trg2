@@ -18,48 +18,13 @@ import Testimonials from "../components/Testimonials.astro";
 import NewsCard from "../components/NewsCard.astro";
 import ProjectCard from "../components/ProjectCard.astro";
 import projects from "../data/projects.json";
+import StatsSection from "../components/StatsSection.jsx";
 ---
 
 <MainLayout>
   <main>
     <Hero />
-    <div
-      class="grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-8 gap-6"
-    >
-      <div class="flex items-center justify-start md:justify-center w-full">
-        <div
-          class="w-32 h-32 border-solid border-sushi border-4 flex items-center"
-        >
-          <h2 class="text-7xl font-bold ml-6">300</h2>
-        </div>
-        <div class="w-16"></div>
-        <div class="h-full flex items-center font-normal text-lg w-min">
-          <h1>Number of<br />Apartments</h1>
-        </div>
-      </div>
-      <img src="/images/num-ap.jpg" class="w-full h-auto" />
-    </div>
-    <div
-      class="grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-12 gap-6"
-    >
-      <div
-        class="flex items-center justify-start md:justify-center w-full md:col-start-2"
-      >
-        <div
-          class="w-32 h-32 border-solid border-sushi border-4 flex items-center"
-        >
-          <h2 class="text-7xl font-bold ml-10">21</h2>
-        </div>
-        <div class="w-4"></div>
-        <div class="h-full flex items-center font-normal text-lg">
-          <h1>Projects in<br />Process</h1>
-        </div>
-      </div>
-      <img
-        src="/images/projects-prog.jpg"
-        class="w-full h-auto md:col-start-1 md:row-start-1"
-      />
-    </div>
+    <StatsSection client:load />
     <div class="px-4 max-w-5xl mx-auto py-8">
       <h1 class="text-3xl font-bold mb-2">Project Highlights</h1>
       <ul class="italic flex gap-6 mb-1">
