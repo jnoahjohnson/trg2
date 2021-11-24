@@ -35,7 +35,7 @@ export default function StatsSection() {
 
       setNumProjects(
         Math.min(
-          Math.floor(Math.abs((Math.max(numPos, 0) / image1Pos) * 21)),
+          Math.floor(Math.abs((Math.max(numPos, 0) / image2Pos) * 21)),
           21
         )
       );
