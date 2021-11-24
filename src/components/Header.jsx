@@ -22,7 +22,7 @@ export default function Header() {
     <Popover className="relative bg-darkbg z-10 h-full">
       <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:space-x-10 max-w-6xl m-auto">
         <div>
-          <a href="../index.astro" className="flex">
+          <a href="../pages/index.astro" className="flex">
             <span className="sr-only">The Ritchie Group</span>
             <img
               className="h-8 w-auto sm:h-10"
@@ -64,26 +64,35 @@ export default function Header() {
               </div>
               <div className="h-full flex flex-col justify-between">
                 <nav className="grid gap-6">
+               
+                    
                   <a
-                    href="#"
+                    href="/allProjects.astro"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
-                    Pricing
+                    Projects
                   </a>
 
                   <a
                     href="#"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
-                    Docs
+                    About Us
                   </a>
 
                   <a
                     href="#"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
-                    Enterprise
+                    Investors
                   </a>
+                  <a
+                    href="#"
+                    className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
+                  >
+                    Contact Us
+                  </a>
+                  
                 </nav>
                 <div>
                   <div className="flex gap-4 mb-4">

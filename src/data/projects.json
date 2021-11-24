@@ -1,17 +1,82 @@
 [
   {
     "title": "Midtown 360",
-    "image": "https://images.unsplash.com/photo-1633027567273-89bed6a6d860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80",
+    "image": "../images/Projects/Midtown360/Midtown360_large.png",
     "link": "#"
   },
   {
-    "title": "Midtown 720",
-    "image": "https://images.unsplash.com/photo-1633027567273-89bed6a6d860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80",
+    "title": "Element by Marriott",
+    "image": "../images/Projects/Block67/ElementSLC.png",
     "link": "#"
   },
   {
-    "title": "Midtown 360",
-    "image": "https://images.unsplash.com/photo-1633027567273-89bed6a6d860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80",
+    "title": "Le Meridien",
+    "image": "../images/Projects/Block67/LeMeridien.png",
+    "link": "#"
+  },
+  {
+    "title": "Koloa Landing",
+    "image": "../images/Projects/KoloaLanding/KoloaPool.jpg",
+    "link": "#"
+  }, 
+  {
+    "title": "XR 1",
+    "image": "../images/Projects/XR1/XRfront.png",
+    "link": "#"
+  }, 
+  {
+    "title": "Le Meridien",
+    "image": "../images/Projects/Block67/LeMeridien.png",
+    "link": "#"
+  }, 
+  {
+    "title": "Nantucket Self-Storage",
+    "image": "../images/Projects/Nantucket/Nantucket_droneShot.png",
+    "link": "#"
+  },
+  {
+    "title": "Get Space Self-Storage",
+    "image": "../images/Projects/ExtraSpace/ES_82nd_dark.png",
+    "link": "#"
+  },
+  {
+    "title": "AF 860",
+    "image": "../images/Projects/AF860/AF860_clubhouse.png",
+    "link": "#"
+  },
+  {
+    "title": "AF 111",
+    "image": "../images/Projects/AF111/AF111_rendering.png",
+    "link": "#"
+  },
+  {
+    "title": "Element 31",
+    "image": "../images/Projects/Element31/Element31_poolview.png",
+    "link": "#"
+  },
+  {
+    "title": "Oakwood Mundy Mills",
+    "image": "../images/Projects/OakwoodMM/OakwoodMM_rendering.png",
+    "link": "#"
+  },
+  {
+    "title": "Northridge Apartments",
+    "image": "../images/Projects/NorthridgeApartments/NorthridgeApts_front.png",
+    "link": "#"
+  },
+  {
+    "title": "Rivulet",
+    "image": "../images/Projects/Rivulet/Rivulet_front.png",
+    "link": "#"
+  },
+  {
+    "title": "The Charles",
+    "image": "../images/Projects/Block67/theCharles_rendering_front.png",
+    "link": "#"
+  }, 
+  {
+    "title": "Brickyard",
+    "image": "../images/Projects/Brickyard/brickyard_rendering.png",
     "link": "#"
   }
 ]
