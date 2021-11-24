@@ -1,7 +1,20 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import ProjectCard from "../components/ProjectCard.astro";
+import team from "../data/team.json";
 ---
 
 <MainLayout>
-  <p>This is for the team page</p>
+  <div class="px-4 max-w-5xl mx-auto py-8">
+    <h1 class="text-3xl font-bold mb-2">Meet the team</h1>
+    <br />
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+      {team.map((team) => (
+        <ProjectCard title={team.name} image={team.headshot} link={team.bio} />
+      ))}
+    </div>
+  </div>
 </MainLayout>
+
+//NOTES // i want the meet the team to be on the side like the old one was - i
+//think it had a line underneath it as well.
