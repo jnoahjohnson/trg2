@@ -1,4 +1,4 @@
-import React, { useLayoutEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { Transition } from "@headlessui/react";
 
 export default function StatsSection() {
@@ -13,7 +13,7 @@ export default function StatsSection() {
   const imageOneRef = useRef(null);
   const imageTwoRef = useRef(null);
 
-  useLayoutEffect(() => {
+  useEffect(() => {
     console.log("hello there");
     const topPos = (element) => element.getBoundingClientRect().bottom;
     //added to reduce redundancy
