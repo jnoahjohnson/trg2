@@ -14,7 +14,6 @@ export default function StatsSection() {
   const imageTwoRef = useRef(null);
 
   useEffect(() => {
-    console.log("hello there");
     const topPos = (element) => element.getBoundingClientRect().bottom;
     //added to reduce redundancy
     const image1Pos = topPos(imageOneRef.current);
@@ -24,7 +23,7 @@ export default function StatsSection() {
       const scrollPos = window.scrollY + 200;
 
       // The 200 is the offset until it starts
-      const numPos = window.scrollY - 100;
+      const numPos = window.scrollY;
 
       setNumApartments(
         Math.min(

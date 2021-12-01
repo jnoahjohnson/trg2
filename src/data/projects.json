@@ -1,80 +1,97 @@
 [
   {
+    "id": "1",
     "title": "Midtown 360",
     "image": "../images/Projects/Midtown360/Midtown360_large.png",
-    "link": "#"
+    "link": "#",
+    "category": "multi-family"
   },
   {
+    "id": "2",
     "title": "Element by Marriott",
     "image": "../images/Projects/Block67/ElementSLC.png",
     "link": "#"
   },
   {
+    "id": "3",
     "title": "Le Meridien",
     "image": "../images/Projects/Block67/LeMeridien.png",
     "link": "#"
   },
   {
+    "id": "4",
     "title": "Koloa Landing",
     "image": "../images/Projects/KoloaLanding/KoloaPool.jpg",
     "link": "#"
-  }, 
+  },
   {
+    "id": "5",
     "title": "XR 1",
     "image": "../images/Projects/XR1/XRfront.png",
     "link": "#"
-  }, 
+  },
   {
+    "id": "6",
     "title": "Le Meridien",
     "image": "../images/Projects/Block67/LeMeridien.png",
     "link": "#"
-  }, 
+  },
   {
+    "id": "7",
     "title": "Nantucket Self-Storage",
     "image": "../images/Projects/Nantucket/Nantucket_droneShot.png",
     "link": "#"
   },
   {
+    "id": "8",
     "title": "Get Space Self-Storage",
     "image": "../images/Projects/ExtraSpace/ES_82nd_dark.png",
     "link": "#"
   },
   {
+    "id": "9",
     "title": "AF 860",
     "image": "../images/Projects/AF860/AF860_clubhouse.png",
     "link": "#"
   },
   {
+    "id": "10",
     "title": "AF 111",
     "image": "../images/Projects/AF111/AF111_rendering.png",
     "link": "#"
   },
   {
+    "id": "11",
     "title": "Element 31",
     "image": "../images/Projects/Element31/Element31_poolview.png",
     "link": "#"
   },
   {
+    "id": "12",
     "title": "Oakwood Mundy Mills",
     "image": "../images/Projects/OakwoodMM/OakwoodMM_rendering.png",
     "link": "#"
   },
   {
+    "id": "13",
     "title": "Northridge Apartments",
     "image": "../images/Projects/NorthridgeApartments/NorthridgeApts_front.png",
     "link": "#"
   },
   {
+    "id": "14",
     "title": "Rivulet",
     "image": "../images/Projects/Rivulet/Rivulet_front.png",
     "link": "#"
   },
   {
+    "id": "15",
     "title": "The Charles",
     "image": "../images/Projects/Block67/theCharles_rendering_front.png",
     "link": "#"
-  }, 
+  },
   {
+    "id": "16",
     "title": "Brickyard",
     "image": "../images/Projects/Brickyard/brickyard_rendering.png",
     "link": "#"

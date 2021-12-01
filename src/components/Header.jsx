@@ -19,10 +19,10 @@ export default function Header() {
   };
 
   return (
-    <Popover className="relative bg-darkbg z-10 h-full">
+    <Popover className="relative bg-darkbg z-50 h-full">
       <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:space-x-10 max-w-6xl m-auto">
         <div>
-          <a href="../pages/index.astro" className="flex">
+          <a href="/" className="flex">
             <span className="sr-only">The Ritchie Group</span>
             <img
               className="h-8 w-auto sm:h-10"
@@ -50,7 +50,7 @@ export default function Header() {
       >
         <Popover.Panel
           focus
-          className="absolute top-0 right-0 bottom-0 p-2 w-full md:w-1/3 h-screen transform overflow-visible"
+          className="z-50 absolute top-0 right-0 bottom-0 p-2 w-full md:w-1/3 h-screen transform overflow-visible"
         >
           <div className="h-full rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-darkbg divide-y-2 divide-gray-50">
             <div className="pt-16 pb-6 px-5 h-full relative">
@@ -64,10 +64,8 @@ export default function Header() {
               </div>
               <div className="h-full flex flex-col justify-between">
                 <nav className="grid gap-6">
-               
-                    
                   <a
-                    href="/allProjects.astro"
+                    href="/projects"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
                     Projects
@@ -92,7 +90,6 @@ export default function Header() {
                   >
                     Contact Us
                   </a>
-                  
                 </nav>
                 <div>
                   <div className="flex gap-4 mb-4">

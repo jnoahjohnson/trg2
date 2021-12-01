@@ -2,6 +2,7 @@
 // Component Imports
 import Tour from "../components/Tour.astro";
 import Header from "../components/Header.jsx";
+import ProjectSection from "../components/ProjectSection.jsx";
 // You can import components from any supported Framework here!
 /* ASTRO:COMPONENT_IMPORTS */
 
@@ -25,30 +26,9 @@ import StatsSection from "../components/StatsSection.jsx";
   <main>
     <Hero />
     <StatsSection client:load />
-    <div class="px-4 max-w-5xl mx-auto py-8">
-      <h1 class="text-3xl font-bold mb-2">Project Highlights</h1>
-      <ul class="italic flex gap-6 mb-1">
-        <li><a href="/projects">All</a></li>
-        <li><a href="/projects">Multi-Family</a></li>
-        <li><a href="/projects">Industrial</a></li>
-        <li><a href="/projects">Hospitality</a></li>
-      </ul>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
-        {projects.map((project) => (
-          <ProjectCard
-            title={project.title}
-            image={project.image}
-            link={project.link}
-          />
-        ))}
-      </div>
-      <div class="text-center">
-        <a
-          class="text-gray-200 bg-gray-600 hover:bg-gray-700 px-4 py-2 inline-block"
-          href="/projects">View All Projects</a
-        >
-      </div>
-    </div>
+
+    <ProjectSection client:load />
+
     <div class="px-4 max-w-5xl mx-auto py-8">
       <h1 class="text-3xl font-bold mb-1">Latest News</h1>
       <a class="text-gray-400" href="/projects">All Articles</a>

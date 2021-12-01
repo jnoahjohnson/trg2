@@ -1,0 +1,46 @@
+---
+import projects from "../../data/projects.json";
+import MainLayout from "../../layouts/MainLayout.astro";
+
+export async function getStaticPaths() {
+  return projects.map((project) => ({ params: { id: project.id } }));
+}
+
+const { id } = Astro.request.params;
+const project = projects[parseInt(id) - 1];
+---
+
+<MainLayout>
+  <div class="">
+    <div class="w-full h-96 relative">
+      <img
+        src={project.image}
+        alt={project.title}
+        class="w-full h-full object-cover object-center absolute inset-0 z-10"
+      />
+      <div
+        class="absolute bg-gray-800 bg-blend-multiply w-full h-full inset-0 z-20 opacity-40"
+      >
+      </div>
+      <div
+        class="max-w-7xl mx-auto aboslute z-30 inset-0 flex flex-col items-between justify-between w-full h-full py-6 px-2"
+      >
+        <a href="/projects" class="font-bold text-2xl z-30"
+          >&larr; See All Projects</a
+        >
+        <h1 class="font-bold text-5xl z-30">
+          {project.title}
+        </h1>
+      </div>
+    </div>
+
+    <main class="max-w-7xl mx-auto py-4 px-2">
+      <p class="text-xl font-medium">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum ex
+        animi sunt totam cum nisi veritatis quas, et, molestias iusto quo
+        quisquam reprehenderit suscipit labore vel, esse placeat inventore
+        alias.
+      </p>
+    </main>
+  </div>
+</MainLayout>
