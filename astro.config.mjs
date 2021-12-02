@@ -6,11 +6,9 @@
 // helpful tooltips, and warnings if your exported object is invalid.
 // You can disable this by removing "@ts-check" and `@type` comments below.
 
-// @ts-check
-export default /** @type {import('astro').AstroUserConfig} */ ({
-  // Set "renderers" to "[]" to disable all default, builtin component support.
-  renderers: ['@astrojs/renderer-react'],
+export default {
+  renderers: ["@astrojs/renderer-react"],
   devOptions: {
-    tailwindConfig: './tailwind.config.js',
+    tailwindConfig: "./tailwind.config.js",
   },
-});
+};

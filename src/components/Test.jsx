@@ -1,4 +1,4 @@
-import { h } from 'preact';
+import React from "react";
 
 export default function Test() {
   return <h1> This is a test comopnent</h1>;

@@ -7,7 +7,7 @@ export async function getStaticPaths() {
 }
 
 const { id } = Astro.request.params;
-const project = projects[parseInt(id) - 1];
+const project = projects.filter((project) => project.id === id).at(0);
 ---
 
 <MainLayout>

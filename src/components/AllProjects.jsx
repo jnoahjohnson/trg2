@@ -10,10 +10,11 @@ export default function ProjectSection() {
       projects.filter((project) => project.category === category)
     );
   };
+
   return (
-    <div class="px-4 max-w-5xl mx-auto py-8">
-      <h1 class="text-5xl font-bold mb-2">Projects</h1>
-      <ul class="italic flex gap-6 mb-1 text-lg">
+    <div className="px-4 max-w-5xl mx-auto py-8">
+      <h1 className="text-5xl font-bold mb-2">Projects</h1>
+      <ul className="italic flex gap-6 mb-1 text-lg">
         <li>
           <button onClick={() => setCurrentProjects(projects)}>All</button>
         </li>
@@ -38,9 +39,10 @@ export default function ProjectSection() {
           There are no projects with this cateogry.
         </p>
       )}
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
         {currentProjects.map((project) => (
           <ProjectCard
+            key={project.id}
             title={project.title}
             image={project.image}
             id={project.id}

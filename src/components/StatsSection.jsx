@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-import { Transition } from "@headlessui/react";
 
 export default function StatsSection() {
   const [show, setShow] = useState({
