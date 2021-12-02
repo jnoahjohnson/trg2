@@ -34,13 +34,19 @@ const project = projects[parseInt(id) - 1];
       </div>
     </div>
 
-    <main class="max-w-7xl mx-auto py-4 px-2">
+    <main class="max-w-7xl mx-auto py-6 px-2">
+      <h2 class="text-3xl font-light text-gray-100 mb-2">About the Project</h2>
       <p class="text-xl font-medium">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum ex
         animi sunt totam cum nisi veritatis quas, et, molestias iusto quo
         quisquam reprehenderit suscipit labore vel, esse placeat inventore
         alias.
       </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 row-auto gap-10 py-10">
+        {project.carousel.map((image) => (
+          <img src={image} class="w-full h-full object-cover" />
+        ))}
+      </div>
     </main>
   </div>
 </MainLayout>
