@@ -3,97 +3,210 @@
     "id": "1",
     "title": "Midtown 360",
     "image": "../images/Projects/Midtown360/Midtown360_large.png",
-    "link": "#",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419505/images/Projects/Midtown360/Midtown_360_HR_106_of_116_edit_x66rmh.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419229/images/Projects/Midtown360/Midtown_360_HR_114_of_116_edit_gt95rs.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419225/images/Projects/Midtown360/Midtown_360_MR_14_of_116_edit_af5kvn.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4660_WEB_clyehp.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4396_WEB_na148g.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419223/images/Projects/Midtown360/_LLC4593_WEB_tqvmuq.jpg"
+    ],
     "category": "multi-family"
   },
   {
     "id": "2",
     "title": "Element by Marriott",
     "image": "../images/Projects/Block67/ElementSLC.png",
-    "link": "#"
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390477/images/Projects/Block67/Block67_11_-_Photo_g5ajlu.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390476/images/Projects/Block67/Block67_2_-_Photo_buhlno.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Block67/ElementSLC_umuxtb.png"
+    ], 
+    "category": "hospitality"
   },
   {
     "id": "3",
     "title": "Le Meridien",
     "image": "../images/Projects/Block67/LeMeridien.png",
-    "link": "#"
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390991/images/Projects/LeMeridien/C05-Edited_eahsrb.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/C04_-edited_bpgtnw.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/C01_xpi96r.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/Le_Meridien_Logo_hqqsto.png"
+    ], 
+    "category": "hospitality"
   },
   {
     "id": "4",
     "title": "Koloa Landing",
     "image": "../images/Projects/KoloaLanding/KoloaPool.jpg",
-    "link": "#"
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390629/images/Projects/KoloaLanding/lihak-exterior-0085-hor-wide_bvujel.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390628/images/Projects/KoloaLanding/lihak-pool-0016-hor-wide_afiawq.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390628/images/Projects/KoloaLanding/lihak-villa-0059-hor-wide_w98dnl.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/KoloaLanding/KoloaPool_w7p20x.jpg"
+    ], 
+    "category": "hospitality"
   },
   {
     "id": "5",
     "title": "XR 1",
     "image": "../images/Projects/XR1/XRfront.png",
-    "link": "#"
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391171/images/Projects/XR1/res-console.cloudinary_wzeoxi_zdbr9y.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/IMG_5595_e6psd9.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Side_-_East_View_btltfc.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Interior_2_b3sbrx.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Loading_Docs_lnfnzv.jpg"
+    ], 
+    "category": "industrial"
   },
   {
     "id": "6",
-    "title": "Le Meridien",
-    "image": "../images/Projects/Block67/LeMeridien.png",
-    "link": "#"
+    "title": "Nantucket Self-Storage",
+    "image": "../images/Projects/Nantucket/Nantucket_droneShot.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.04_AM_zmuzys.png", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.13_AM_fugcrz.png", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.51.18_AM_sriwcx.png", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.52.51_AM_bgkadt.png", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465679/images/Projects/Nantucket/IMG_20180816_111208_r9wwi5.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/Nantucket/Nantucket_droneShot_ddlnlq.png"
+    ], 
+    "category": "industrial"
   },
   {
     "id": "7",
-    "title": "Nantucket Self-Storage",
-    "image": "../images/Projects/Nantucket/Nantucket_droneShot.png",
-    "link": "#"
+    "title": "Get Space Self-Storage",
+    "image": "../images/Projects/ExtraSpace/ES_82nd_dark.png",
+    "carousel":[
+      ""
+    ], 
+    "category": "industrial"
   },
   {
     "id": "8",
-    "title": "Get Space Self-Storage",
-    "image": "../images/Projects/ExtraSpace/ES_82nd_dark.png",
-    "link": "#"
+    "title": "AF 860",
+    "image": "../images/Projects/AF860/AF860_clubhouse.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418812/images/Projects/AF860/AF_Carriage_-_Clubhouse_ds29me.jpg"
+    ], 
+    "category": "multi-family"
   },
   {
     "id": "9",
-    "title": "AF 860",
-    "image": "../images/Projects/AF860/AF860_clubhouse.png",
-    "link": "#"
+    "title": "AF 111",
+    "image": "../images/Projects/AF111/AF111_rendering.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg"
+    ], 
+    "category": "multi-family"
   },
   {
     "id": "10",
-    "title": "AF 111",
-    "image": "../images/Projects/AF111/AF111_rendering.png",
-    "link": "#"
+    "title": "Element 31",
+    "image": "../images/Projects/Element31/Element31_poolview.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419582/images/Projects/Element31/Element_31_MR_7_of_76_ewf2w8.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419537/images/Projects/Element31/Element_31_Clubhouse_HR_22_of_31_pktkpu.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419537/images/Projects/Element31/Element_31_Clubhouse_HR_23_of_31_nxkwcb.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419537/images/Projects/Element31/Element_31_Clubhouse_HR_26_of_31_vwt6rv.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419534/images/Projects/Element31/Element_31_Clubhouse_HR_7_of_31_wmrnhq.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419532/images/Projects/Element31/Element_31_Clubhouse_HR_20_of_31_hkl72j.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419526/images/Projects/Element31/Element_31_Clubhouse_HR_2_of_31_i2f03w.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419525/images/Projects/Element31/Element_31_Clubhouse_HR_6_of_31_m6wvxr.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419523/images/Projects/Element31/Element_31_Clubhouse_HR_8_of_31_xfqn50.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419519/images/Projects/Element31/Element_31_Clubhouse_HR_4_of_31_tlv19w.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419518/images/Projects/Element31/Element_31_Clubhouse_HR_1_of_31_bnlu3x.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419517/images/Projects/Element31/Element_31_Clubhouse_HR_3_of_31_wvg3ti.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419516/images/Projects/Element31/Element_31_Clubhouse_HR_9_of_31_eue9az.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419509/images/Projects/Element31/Element_31_MR_76_of_76_tpvltp.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419509/images/Projects/Element31/Element_31_MR_73_of_76_muaq0d.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419508/images/Projects/Element31/Element_31_MR_26_of_76_p30dhn.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419508/images/Projects/Element31/Element_31_MR_69_of_76_dlda09.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419508/images/Projects/Element31/Element_31_MR_55_of_76_d8bzis.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419508/images/Projects/Element31/Element_31_MR_66_of_76_rzdhya.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419507/images/Projects/Element31/Element_31_MR_20_of_76_svx7no.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419507/images/Projects/Element31/Element_31_MR_27_of_76_yguypg.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419507/images/Projects/Element31/Element_31_MR_12_of_76_awtznb.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419507/images/Projects/Element31/Element_31_MR_9_of_76_wedfx2.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Element31/Element31_room_gtzfm3.png", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390280/images/Projects/Element31/Element31_poolchairs_iuxazs.png", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390279/images/Projects/Element31/Element31_roadview_jh7qt0.png", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390279/images/Projects/Element31/Element31_poolview_tknas1.png"
+    ], 
+    "category": "multi-family"
   },
   {
     "id": "11",
-    "title": "Element 31",
-    "image": "../images/Projects/Element31/Element31_poolview.png",
-    "link": "#"
+    "title": "Oakwood Mundy Mills",
+    "image": "../images/Projects/OakwoodMM/OakwoodMM_rendering.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
+    ], 
+    "category": "multi-family"
   },
   {
     "id": "12",
-    "title": "Oakwood Mundy Mills",
-    "image": "../images/Projects/OakwoodMM/OakwoodMM_rendering.png",
-    "link": "#"
+    "title": "Northridge Apartments",
+    "image": "../images/Projects/NorthridgeApartments/NorthridgeApts_front.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR2_irmtat.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR3_czgdoa.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR6_k83ezn.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR7_zybsbb.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR5_xni12w.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR8_jf9ufn.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR4_ic9hao.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466351/images/Projects/NorthridgeApts/NORTHRIDGE_logo_f5inyr.jpg"
+    ], 
+    "category": "multi-family"
   },
   {
     "id": "13",
-    "title": "Northridge Apartments",
-    "image": "../images/Projects/NorthridgeApartments/NorthridgeApts_front.png",
-    "link": "#"
+    "title": "Rivulet",
+    "image": "../images/Projects/Rivulet/Rivulet_front.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/The_Rivulet_smq4fw.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_6_vwny5n.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_5_rm4ob0.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_4_i7qgzs.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_3_tkneoa.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_2_fymlif.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3392_WEB_j8m1sr.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3241_WEB_zidllg.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3361_WEB_bpevxl.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC0674_WEB_wqf6bs.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC0713_WEB_lrccjr.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3349_WEB_zlv5l7.jpg"
+    ], 
+    "category": "multi-family"
   },
   {
     "id": "14",
-    "title": "Rivulet",
-    "image": "../images/Projects/Rivulet/Rivulet_front.png",
-    "link": "#"
+    "title": "The Charles",
+    "image": "../images/Projects/Block67/theCharles_rendering_front.png",
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C05_lnvkny.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg"
+    ], 
+    "category": "hospitality"
   },
   {
     "id": "15",
-    "title": "The Charles",
-    "image": "../images/Projects/Block67/theCharles_rendering_front.png",
-    "link": "#"
-  },
-  {
-    "id": "16",
-    "title": "Brickyard",
+    "title": "The Stack",
     "image": "../images/Projects/Brickyard/brickyard_rendering.png",
-    "link": "#"
+    "carousel":[
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg"
+    ], 
+    "category": "mulit-family"
   }
 ]
