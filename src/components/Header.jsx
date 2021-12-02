@@ -19,7 +19,7 @@ export default function Header() {
   };
 
   return (
-    <Popover className="relative bg-darkbg z-50 h-full">
+    <Popover className="relative bg-darkbg h-full">
       <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:space-x-10 max-w-6xl m-auto">
         <div>
           <a href="/" className="flex">
