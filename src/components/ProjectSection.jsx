@@ -3,11 +3,11 @@ import projects from "../data/projects.json";
 import ProjectCard from "./ProjectCard";
 
 export default function ProjectSection() {
-  const [currentProjects, setCurrentProjects] = useState(projects.slice(0, 6));
+  const [currentProjects, setCurrentProjects] = useState(projects.slice(0, 3));
 
   const setProjectCategory = (category) => {
     setCurrentProjects(
-      projects.filter((project) => project.category === category).slice(0, 6)
+      projects.filter((project) => project.category === category).slice(0, 3)
     );
   };
 
@@ -16,7 +16,7 @@ export default function ProjectSection() {
       <h1 className="text-3xl font-bold mb-2">Project Highlights</h1>
       <ul className="italic flex gap-6 mb-1">
         <li>
-          <button onClick={() => setCurrentProjects(projects.slice(0, 6))}>
+          <button onClick={() => setCurrentProjects(projects.slice(0, 3))}>
             All
           </button>
         </li>
