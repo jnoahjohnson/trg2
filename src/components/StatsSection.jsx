@@ -10,14 +10,14 @@ export default function StatsSection() {
         >
           <Fade left>
             <div className="w-32 h-32 border-solid border-sushi border-4 flex items-center">
-              <h2 className="text-7xl font-bold ml-6">300</h2>
+              <h2 className="text-7xl font-bold ml-6">3124</h2>
             </div>
             <div className="w-16"></div>
             <div className="h-full flex items-center font-normal text-lg w-min">
               <h1>
-                Number of
+                Apartment Units 
                 <br />
-                Apartments
+                Under Construction
               </h1>
             </div>
           </Fade>
@@ -34,14 +34,14 @@ export default function StatsSection() {
         <div className="flex items-center justify-start md:justify-center w-full md:col-start-2">
           <Fade right>
             <div className="w-32 h-32 border-solid border-sushi border-4 flex items-center">
-              <h2 className="text-7xl font-bold ml-10">42</h2>
+              <h2 className="text-7xl font-bold ml-10">4.2 Million</h2>
             </div>
             <div className="w-4"></div>
             <div className="h-full flex items-center font-normal text-lg">
               <h1>
-                Projects in
+                Industrial 
                 <br />
-                Process
+                Square Feet
               </h1>
             </div>
           </Fade>
