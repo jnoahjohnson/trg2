@@ -1,37 +1,80 @@
 [
     {
-        "name": "Corey Berg",
-        "headshot": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "name": "Ryan Ritchie",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994421/images/Headshots/Ryan_Ritchie_n5fvrt.jpg",
+        "title": "Founder & Principal",
+        "bio": "I work here"
+    },
+    {
+        "name": "Paul Ritchie",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994398/images/Headshots/Paul_Ritchie_-_9355_rrsdq1.jpg",
+        "title": "Founder & Principal",
+        "bio": "I work here"
+    },
+    {
+        "name": "Rob Heywood",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994398/images/Headshots/Rob_Heywood-_9271_ahbg2d.jpg",
+        "title": "Founder & Principal",
+        "bio": "I work here"
+    },
+    {
+        "name": "Jayson Newitt",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Jayson_Newitt_-_9392_onz26a.jpg",
+        "title": "Founder & Principal",
         "bio": "I work here"
     },
     {
         "name": "Corey Berg",
-        "headshot": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994398/images/Headshots/Corey_Berg_-_9296_wtvp8d.jpg",
+        "title": "Principal & Project Management",
         "bio": "I work here"
     },
     {
-        "name": "Corey Berg",
-        "headshot": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "name": "Dean Clark",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Dean_Clark-_9052_ciisjm.jpg",
+        "title": "Principal & Controller",
         "bio": "I work here"
     },
     {
-        "name": "Corey Berg",
-        "headshot": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "name": "Scott Laneri",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994398/images/Headshots/Scott_Laneri_-_9338_lworja.jpg",
+        "title": "Principal & Project Management",
         "bio": "I work here"
     },
     {
-        "name": "Corey Berg",
-        "headshot": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "name": "Jonathan Ritchie",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Jonathan_Ritchie_-_9239_vp4i2w.jpg",
+        "title": "Principal & Project Management",
         "bio": "I work here"
     },
     {
-        "name": "Corey Berg",
-        "headshot": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "name": "Tyler Ritchie",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Tyler_Ritchie_-_9415_fxilr6.jpg",
+        "title": "Principal & Operations",
         "bio": "I work here"
     },
     {
-        "name": "Corey Berg",
-        "headshot": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "name": "Dave Hennefer",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Dave_Henefer_-_9179_h8zk3d.jpg",
+        "title": "Project Management",
+        "bio": "I work here"
+    }, 
+    {
+        "name": "Stephanie Acton",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994398/images/Headshots/Stephanie_Acton-_9083_ianhxh.jpg",
+        "title": "Accounting",
+        "bio": "I work here"
+    }, 
+    {
+        "name": "David Womeldorf",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/David_Womeldorf_-_9215_ou1kxl.jpg",
+        "title": "Accounting ",
+        "bio": "I work here"
+    }, 
+    {
+        "name": "Scott Maloof",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994421/images/Headshots/Scott_Maloof_q6bmnh.jpg",
+        "title": "Property Management",
         "bio": "I work here"
     }
 

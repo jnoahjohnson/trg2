@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import { XIcon } from "@heroicons/react/outline";
 
-export default function TeamCard({ name, headshot, bio }) {
+export default function TeamCard({ name, headshot, title, bio }) {
   let [isOpen, setIsOpen] = useState(false);
+  console.log({title})
   return (
     <div>
       <div className="relative w-full h-96 flex items-end p-6 transition-all duration-300 group">
@@ -13,7 +14,7 @@ export default function TeamCard({ name, headshot, bio }) {
         <div className="absolute inset-0 bg-gradient-to-t from-gray-800 to-gray-400 mix-blend-multiply hover:bg-sushi transition-all duration-300 opacity-0 group-hover:opacity-50"></div>
         <div className="relative opacity-0 group-hover:opacity-100 transition duration-150">
           <h1 className="text-3xl font-bold mb-1">{name}</h1>
-          <p className="text-gray-300 mb-2">{bio}</p>
+          <p className="text-gray-300 mb-2">{title}</p>
           <button onClick={() => setIsOpen(true)} className="text-white">
             See More
           </button>
@@ -42,8 +43,10 @@ export default function TeamCard({ name, headshot, bio }) {
             </div>
             <aside className="flex flex-col items-start justify-start">
               <h1 className="text-5xl font-bold mb-1">{name}</h1>
+              <br />
               <p className="mb-2 text-2xl">Social Links!</p>
-              <p className="text-2xl">You can put the bio here!</p>
+              <p className="mb-2 text-2xl">{title}</p>
+              <p className="text-2xl">{bio}</p>
             </aside>
           </div>
         </div>

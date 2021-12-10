@@ -12,18 +12,54 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4396_WEB_na148g.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419223/images/Projects/Midtown360/_LLC4593_WEB_tqvmuq.jpg"
     ],
-    "category": "multi-family"
+    "category": "multi-family", 
+    "stats": [
+      {
+        "type": "units",
+        "text": "390"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2015"
+      },
+      {
+        "type": "status",
+        "text": "Sold"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$32,000,000.00"
+      }
+    ]
   },
   {
     "id": "2",
-    "title": "Element by Marriott",
+    "title": "Element by Westin",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Block67/ElementSLC_umuxtb.png",
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390477/images/Projects/Block67/Block67_11_-_Photo_g5ajlu.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390476/images/Projects/Block67/Block67_2_-_Photo_buhlno.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Block67/ElementSLC_umuxtb.png"
     ],
-    "category": "hospitality"
+    "category": "hospitality",
+    "stats": [
+      {
+        "type": "units",
+        "text": "126"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2020"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "0"
+      }
+    ]
   },
   {
     "id": "3",
@@ -35,7 +71,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/C01_xpi96r.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/Le_Meridien_Logo_hqqsto.png"
     ],
-    "category": "hospitality"
+    "category": "hospitality",
+    "stats": [
+      {
+        "type": "units",
+        "text": "144"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2020"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "0"
+      }
+    ]
   },
   {
     "id": "4",
@@ -47,7 +101,17 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390628/images/Projects/KoloaLanding/lihak-villa-0059-hor-wide_w98dnl.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/KoloaLanding/KoloaPool_w7p20x.jpg"
     ],
-    "category": "hospitality"
+    "category": "hospitality",
+    "stats": [
+      {
+        "type": "units",
+        "text": "306"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2006"
+      }
+    ]
   },
   {
     "id": "5",
@@ -58,9 +122,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/IMG_5595_e6psd9.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Side_-_East_View_btltfc.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Interior_2_b3sbrx.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Loading_Docs_lnfnzv.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Loading_Docs_lnfnzv.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810298/images/Projects/XR1/XR3-inside6_eo7a09.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810298/images/Projects/XR1/XR3-inside4-jpg_as5zrn.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810298/images/Projects/XR1/XR3-inside5_l4kdl7.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810298/images/Projects/XR1/XR3-inside1_ordnxm.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810298/images/Projects/XR1/XR3-inside2_hvhde4.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810298/images/Projects/XR1/XR3-inside3_evwpq6.jpg"
     ],
-    "category": "industrial"
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "390"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2019"
+      }
+    ]
   },
   {
     "id": "6",
@@ -74,7 +154,13 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465679/images/Projects/Nantucket/IMG_20180816_111208_r9wwi5.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/Nantucket/Nantucket_droneShot_ddlnlq.png"
     ],
-    "category": "industrial"
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "91,900"
+      }
+    ]
   },
   {
     "id": "8",
@@ -84,7 +170,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418812/images/Projects/AF860/AF_Carriage_-_Clubhouse_ds29me.jpg"
     ],
-    "category": "multi-family"
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "512"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$114,000,000.00"
+      }
+    ]
   },
   {
     "id": "9",
@@ -93,7 +197,25 @@
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg"
     ],
-    "category": "multi-family"
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "352"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2022"
+      },
+      {
+        "type": "status",
+        "text": "Predevelopment"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$72,000,000.00"
+      }
+    ]
   },
   {
     "id": "10",
@@ -128,7 +250,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390279/images/Projects/Element31/Element31_roadview_jh7qt0.png",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390279/images/Projects/Element31/Element31_poolview_tknas1.png"
     ],
-    "category": "multi-family"
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "208"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2014"
+      },
+      {
+        "type": "status",
+        "text": "Owned"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$32,000,000.00"
+      }
+    ]
   },
   {
     "id": "11",
@@ -138,7 +278,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
     ],
-    "category": "multi-family"
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "248"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2022"
+      },
+      {
+        "type": "status",
+        "text": "Plans Submitted"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$60,000,000.00"
+      }
+    ]
   },
   {
     "id": "12",
@@ -155,7 +313,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR4_ic9hao.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466351/images/Projects/NorthridgeApts/NORTHRIDGE_logo_f5inyr.jpg"
     ],
-    "category": "multi-family"
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "100"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$15,000,000.00"
+      }
+    ]
   },
   {
     "id": "13",
@@ -176,7 +352,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC0713_WEB_lrccjr.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3349_WEB_zlv5l7.jpg"
     ],
-    "category": "multi-family"
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "252"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2016"
+      },
+      {
+        "type": "status",
+        "text": "Owned"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$39,500,000.00"
+      }
+    ]
   },
   {
     "id": "14",
@@ -189,13 +383,25 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg"
     ],
+    "category": "hospitality",
     "stats": [
       {
         "type": "units",
-        "text": "300"
+        "text": "240"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2019"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$89,000,000.00"
       }
-    ],
-    "category": "hospitality"
+    ]
   },
   {
     "id": "15",
@@ -204,6 +410,46 @@
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg"
     ],
-    "category": "mulit-family"
+    "category": "mulit-family", 
+    "stats": [
+      {
+        "type": "units",
+        "text": "254"
+      }, 
+      {
+        "type": "startYear",
+        "text": "2020"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "developmentBudget",
+        "text": "$65,000,000.00"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "XR 3",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside3_gdrcug.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside6_avh7wh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-2_sc1ymz.png",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside5_e4xcdy.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside4-jpg_z9jxc6.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside1_zixdcw.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810190/images/Projects/XR3/XR3-inside2_bwwhhl.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "startYear",
+        "text": "2021"
+      }
+    ]
   }
 ]
