@@ -1,11 +1,23 @@
 import { HashtagIcon } from "@heroicons/react/outline";
 import React from "react";
+import getIcon from "../utils/getIcon.js";
 
-export default function ProjectStats(stats) {
+export default function ProjectStats({ stats }) {
   return (
-    <div className="flex items-end">
-      <HashtagIcon className="w-6 h-6 mr-2 text-gray-400" />
-      <p className="text-4xl font-light">300 units</p>
+    <div>
+      {stats.map((stat) => (
+        <div className="mb-4">
+          <div className="flex items-end mb-1 ">
+            <span className="w-6 h-6 mr-2 text-gray-400 ">
+              {getIcon(stat.type)}
+            </span>
+            <p className="font-light uppercase text-lg text-gray-400">
+              {stat.type}
+            </p>
+          </div>
+          <p className="text-4xl font-semibold">{stat.text}</p>
+        </div>
+      ))}
     </div>
   );
 }

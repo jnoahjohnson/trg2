@@ -25,7 +25,7 @@ export default function Header() {
           <a href="/" className="flex">
             <span className="sr-only">The Ritchie Group</span>
             <img
-              className="h-8 w-auto sm:h-10"
+              className="md:h-14 w-auto h-12"
               src="/assets/logo.png"
               alt="The Ritchie Group"
             />
@@ -34,7 +34,7 @@ export default function Header() {
         <div className="-mr-2 -my-2">
           <Popover.Button className="rounded-md p-2 inline-flex items-center justify-center text-gray-200 hover:text-gray-300 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-sushi">
             <span className="sr-only">Open menu</span>
-            <MenuIcon className="h-6 w-6" aria-hidden="true" />
+            <MenuIcon className="h-7 w-7" aria-hidden="true" />
           </Popover.Button>
         </div>
       </div>
