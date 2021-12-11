@@ -12,12 +12,12 @@
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4396_WEB_na148g.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419223/images/Projects/Midtown360/_LLC4593_WEB_tqvmuq.jpg"
     ],
-    "category": "multi-family", 
+    "category": "multi-family",
     "stats": [
       {
         "type": "units",
         "text": "390"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2015"
@@ -46,7 +46,7 @@
       {
         "type": "units",
         "text": "126"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2020"
@@ -76,7 +76,7 @@
       {
         "type": "units",
         "text": "144"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2020"
@@ -106,7 +106,7 @@
       {
         "type": "units",
         "text": "306"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2006"
@@ -135,7 +135,7 @@
       {
         "type": "squareFeet",
         "text": "390"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2019"
@@ -175,7 +175,7 @@
       {
         "type": "units",
         "text": "512"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2021"
@@ -202,7 +202,7 @@
       {
         "type": "units",
         "text": "352"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2022"
@@ -255,7 +255,7 @@
       {
         "type": "units",
         "text": "208"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2014"
@@ -283,7 +283,7 @@
       {
         "type": "units",
         "text": "248"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2022"
@@ -318,7 +318,7 @@
       {
         "type": "units",
         "text": "100"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2021"
@@ -357,7 +357,7 @@
       {
         "type": "units",
         "text": "252"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2016"
@@ -388,7 +388,7 @@
       {
         "type": "units",
         "text": "240"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2019"
@@ -410,12 +410,12 @@
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg"
     ],
-    "category": "mulit-family", 
+    "category": "mulit-family",
     "stats": [
       {
         "type": "units",
         "text": "254"
-      }, 
+      },
       {
         "type": "startYear",
         "text": "2020"
@@ -435,7 +435,7 @@
     "title": "XR 3",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg", 
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside3_gdrcug.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside6_avh7wh.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-2_sc1ymz.png",

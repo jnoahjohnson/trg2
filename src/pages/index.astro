@@ -14,7 +14,7 @@ import ProjectSection from "../components/ProjectSection.jsx";
 // Full Astro Component Syntax:
 // https://docs.astro.build/core-concepts/astro-components/
 import MainLayout from "../layouts/MainLayout.astro";
-import Hero from "../components/Hero";
+import Hero from "../components/Hero.jsx";
 import Testimonials from "../components/Testimonials.astro";
 import NewsCard from "../components/NewsCard.astro";
 import ProjectCard from "../components/ProjectCard.astro";
@@ -25,7 +25,7 @@ import BlogSection from "../components/BlogSection.jsx";
 
 <MainLayout>
   <main>
-    <Hero />
+    <Hero client:load />
 
     <StatsSection client:load />
     <ProjectSection client:load />

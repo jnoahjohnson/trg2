@@ -1,6 +1,7 @@
 import { HashtagIcon } from "@heroicons/react/outline";
 import React from "react";
 import getIcon from "../utils/getIcon.js";
+import getDisplayName from "../utils/getDisplayName.js";
 
 export default function ProjectStats({ stats }) {
   return (
@@ -12,7 +13,7 @@ export default function ProjectStats({ stats }) {
               {getIcon(stat.type)}
             </span>
             <p className="font-light uppercase text-lg text-gray-400">
-              {stat.type}
+              {getDisplayName(stat.type)}
             </p>
           </div>
           <p className="text-4xl font-semibold">{stat.text}</p>
