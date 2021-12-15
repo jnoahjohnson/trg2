@@ -7,8 +7,8 @@ import news from "../data/news.json";
 <MainLayout>
   <div class="px-4 max-w-5xl mx-auto py-8">
     <br />
-    <h1 class="text-5xl font-bold mb-2 text-center">News Stories</h1>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+    <h1 class="text-5xl font-bold mb-8 text-center">News Stories</h1>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
       {news.map((news) => (
         <BlogSection
           title={news.title}
@@ -17,7 +17,7 @@ import news from "../data/news.json";
           description={news.desription}
           date={news.date}
           datetime={news.datetime}
-          image={news.imageUrl}
+          imageUrl={news.imageUrl}
           readingTime={news.readingTime}
           author={news.author}
           client:load
