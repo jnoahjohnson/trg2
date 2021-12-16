@@ -5,27 +5,29 @@ import giveBack from "../data/giveBack.json";
 ---
 
 <MainLayout>
-  <div class="w-full h-4/6 relative">
+  <div class="w-full h-128 relative">
     <img
       src="https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80"
       class="w-full h-full object-cover object-center absolute inset-0 z-10"
     />
     <div
-      class="max-w-7xl mx-auto aboslute z-30 inset-0 flex flex-col items-between justify-between w-full h-full py-6 px-6"
+      class="absolute inset-0 bg-gray-500 mix-blend-multiply w-full h-full z-20"
     >
-      <h1 class="text-5xl font-bold mb-2 text-center z-30">We Value</h1>
-      <h1 class="text-5xl font-bold mb-8 text-center z-30">
+    </div>
+    <div
+      class="max-w-7xl mx-auto aboslute z-30 inset-0 flex flex-col items-center justify-center w-full h-full py-6 px-6"
+    >
+      <h1 class="text-6xl mb-4 text-center z-30 text-gray-300 font-medium">
+        We Value
+      </h1>
+      <h1 class="text-7xl font-bold mb-8 text-center z-30">
         Giving Back to Our Community
       </h1>
     </div>
   </div>
 
   <div class="px-4 max-w-5xl mx-auto py-8">
-    <br />
-    <br />
-    <br />
-    <br />
-    <div class="grid grid-cols-2 gap-10">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 mb-12">
       <div>
         <h1 class="text-2xl mb-2 text-center">
           Add a little blurb about Jim and the ritchie foundation here
@@ -36,21 +38,15 @@ import giveBack from "../data/giveBack.json";
           Founder James Ritchie
         </h1>
         <img
-          class="object-right"
+          class="mx-auto"
           src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639621154/images/Headshots/James_Ritchie_-_9150_lezddj.jpg"
         />
       </div>
     </div>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <h1 class="text-4xl font-bold mb-2 text-center">
+
+    <h1 class="text-4xl font-bold mb-2 text-center mb-6">
       Organizations We have Supported
     </h1>
-    <br />
-    <br />
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
       {giveBack.map((logo) => (
         <GiveBackLogos
@@ -61,5 +57,5 @@ import giveBack from "../data/giveBack.json";
         />
       ))}
     </div>
-  </div>
-</MainLayout>
+  </div></MainLayout
+>

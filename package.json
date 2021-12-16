@@ -10,7 +10,10 @@
   },
   "devDependencies": {
     "astro": "^0.20.12",
-    "prettier-plugin-astro": "^0.0.10"
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "prettier-plugin-astro": "^0.0.10",
+    "tailwindcss": "^3.0.5"
   },
   "snowpack": {
     "workspaceRoot": "../.."
@@ -21,7 +24,6 @@
     "@heroicons/react": "^1.0.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-reveal": "^1.2.2",
-    "tailwindcss": "^2.2.19"
+    "react-reveal": "^1.2.2"
   }
 }
