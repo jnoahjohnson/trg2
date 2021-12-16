@@ -138,7 +138,7 @@ export default function Header() {
                         />
                       </svg>
                     </a>
-                    <a href="#" class="text-gray-300 hover:text-gray-500">
+                    <a href="https://www.linkedin.com/company/the-ritchie-group-llc" class="text-gray-300 hover:text-gray-500">
                     <span class="sr-only">LinkedIn</span>
                     <svg
                       class="h-6 w-6"
