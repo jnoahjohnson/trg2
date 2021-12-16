@@ -50,7 +50,7 @@ export default function Hero() {
         }`}
       />
       <div className="max-w-5xl w-full h-full mx-auto relative px-4 py-12">
-        <div className="h-full w-max bg-darkbg bg-opacity-80 px-10 py-6 relative flex flex-col items-start justify-between border-sushi border-solid border-4 z-50">
+        <div className="h-full w-max bg-darkbg bg-opacity-80 px-10 py-6 relative flex flex-col items-start justify-between border-sushi border-solid border-4 z-40">
           <div>
             <h1 className="font-semibold text-md text-white uppercase mb-2">
               {currentSlide === 1

@@ -4,7 +4,7 @@ import Footer from "../components/Footer.astro";
 let title = "The Ritchie Group";
 ---
 
-<html lang="en" class="bg-dark-bg h-full">
+<html lang="en" class="bg-dark-bg h-full overflow-x-hidden">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
@@ -17,7 +17,9 @@ let title = "The Ritchie Group";
     <header>
       <Header client:load />
     </header>
-    <slot />
+    <div class="h-full overflow-x-hidden">
+      <slot />
+    </div>
   </body>
   <Footer />
 </html>
