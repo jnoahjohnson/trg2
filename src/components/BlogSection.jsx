@@ -20,16 +20,16 @@ export default function BlogSection({
         <div className="flex-shrink-0">
           <img className="h-48 w-full object-cover" src={imageUrl} alt="" />
         </div>
-        <div className="bg-white p-6 flex-grow h-full flex flex-col justify-between">
+        <div className="p-6 bg-darkbg-dark flex-grow h-full flex flex-col justify-between">
           <div>
-            <p className="text-sm font-medium text-indigo-600">
+            <p className="text-sm font-medium text-rblue">
               <a href={category.href} className="hover:underline">
                 {category.name}
               </a>
             </p>
             <a href={href} className="block mt-2">
-              <p className="text-xl font-semibold text-gray-900">{title}</p>
-              <p className="mt-3 text-base text-gray-500">{description}</p>
+              <p className="text-xl font-semibold text-gray-200">{title}</p>
+              <p className="mt-3 text-base text-gray-400">{description}</p>
             </a>
           </div>
           <div className="mt-6 flex items-center">
@@ -44,12 +44,12 @@ export default function BlogSection({
               </a>
             </div>
             <div className="ml-3">
-              <p className="text-sm font-medium text-gray-900">
+              <p className="text-sm font-medium text-gray-200">
                 <a href={author.href} className="hover:underline">
                   {author.name}
                 </a>
               </p>
-              <div className="flex space-x-1 text-sm text-gray-500">
+              <div className="flex space-x-1 text-sm text-gray-400">
                 <time dateTime={datetime}>{date}</time>
                 <span aria-hidden="true">&middot;</span>
                 <span>{readingTime} read</span>

@@ -1,110 +1,92 @@
 [
-    {
-      "title": "West Quarter Marks 'Topping Out' Milestone",
-      "href": "../assests/newsStories/West Quarter Article- Spread (full).pdf",
-      "category": { "name": "Article", "href": "#" },
-      "description":
-        "Romney visits UDOT’s Traffic Operations Center; Coachman’s Mixed-Use planned; two SLC-based architectural firms acquired.",
-      "date": "Oct 11, 2021",
-      "datetime": "2021-10-11",
-      "imageUrl":
-        "https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=779&q=80",
-      "readingTime": "10 min",
-      "author": {
-        "name": "Utah Construction & Design",
-        "href": "#",
-        "imageUrl":
-          "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Tyler_Ritchie_-_9415_fxilr6.jpg"
-      }
-    },
-    {
-      "title": "How to use search engine optimization to drive sales",
+  {
+    "title": "West Quarter Marks 'Topping Out' Milestone",
+    "href": "/assets/news/west.pdf",
+    "category": { "name": "Article", "href": "#" },
+    "description": "Romney visits UDOT’s Traffic Operations Center; Coachman’s Mixed-Use planned; two SLC-based architectural firms acquired.",
+    "date": "Oct 11, 2021",
+    "datetime": "2021-10-11",
+    "imageUrl": "https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=779&q=80",
+    "readingTime": "10 min",
+    "author": {
+      "name": "Utah Construction & Design",
       "href": "#",
-      "category": { "name": "Video", "href": "#" },
-      "description":
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
-      "date": "Mar 10, 2020",
-      "datetime": "2020-03-10",
-      "imageUrl":
-        "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-      "readingTime": "4 min",
-      "author": {
-        "name": "Brenna Goyette",
-        "href": "#",
-        "imageUrl":
-          "https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-      }
-    },
-    {
-      "title": "Improve your customer experience",
-      "href": "#",
-      "category": { "name": "Case Study", "href": "#" },
-      "description":
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-      "date": "Feb 12, 2020",
-      "datetime": "2020-02-12",
-      "imageUrl":
-        "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-      "readingTime": "11 min",
-      "author": {
-        "name": "Daniela Metz",
-        "href": "#",
-        "imageUrl":
-          "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-      }
-    },
-    {
-        "title": "Improve your customer experience",
-        "href": "#",
-        "category": { "name": "Case Study", "href": "#" },
-        "description":
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-        "date": "Feb 12, 2020",
-        "datetime": "2020-02-12",
-        "imageUrl":
-          "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-        "readingTime": "11 min",
-        "author": {
-          "name": "Daniela Metz",
-          "href": "#",
-          "imageUrl":
-            "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-        }
-    },
-    {
-        "title": "Improve your customer experience",
-        "href": "#",
-        "category": { "name": "Case Study", "href": "#" },
-        "description":
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-        "date": "Feb 12, 2020",
-        "datetime": "2020-02-12",
-        "imageUrl":
-          "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-        "readingTime": "11 min",
-        "author": {
-          "name": "Daniela Metz",
-          "href": "#",
-          "imageUrl":
-            "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-        }
-    },
-    {
-        "title": "Improve your customer experience",
-        "href": "#",
-        "category": { "name": "Case Study", "href": "#" },
-        "description":
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
-        "date": "Feb 12, 2020",
-        "datetime": "2020-02-12",
-        "imageUrl":
-          "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-        "readingTime": "11 min",
-        "author": {
-          "name": "Daniela Metz",
-          "href": "#",
-          "imageUrl":
-            "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-        }
+      "imageUrl": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Tyler_Ritchie_-_9415_fxilr6.jpg"
     }
-  ]
+  },
+  {
+    "title": "How to use search engine optimization to drive sales",
+    "href": "#",
+    "category": { "name": "Video", "href": "#" },
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facilis asperiores porro quaerat doloribus, eveniet dolore. Adipisci tempora aut inventore optio animi., tempore temporibus quo laudantium.",
+    "date": "Mar 10, 2020",
+    "datetime": "2020-03-10",
+    "imageUrl": "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+    "readingTime": "4 min",
+    "author": {
+      "name": "Brenna Goyette",
+      "href": "#",
+      "imageUrl": "https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    }
+  },
+  {
+    "title": "Improve your customer experience",
+    "href": "#",
+    "category": { "name": "Case Study", "href": "#" },
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+    "date": "Feb 12, 2020",
+    "datetime": "2020-02-12",
+    "imageUrl": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+    "readingTime": "11 min",
+    "author": {
+      "name": "Daniela Metz",
+      "href": "#",
+      "imageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    }
+  },
+  {
+    "title": "Improve your customer experience",
+    "href": "#",
+    "category": { "name": "Case Study", "href": "#" },
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+    "date": "Feb 12, 2020",
+    "datetime": "2020-02-12",
+    "imageUrl": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+    "readingTime": "11 min",
+    "author": {
+      "name": "Daniela Metz",
+      "href": "#",
+      "imageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    }
+  },
+  {
+    "title": "Improve your customer experience",
+    "href": "#",
+    "category": { "name": "Case Study", "href": "#" },
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+    "date": "Feb 12, 2020",
+    "datetime": "2020-02-12",
+    "imageUrl": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+    "readingTime": "11 min",
+    "author": {
+      "name": "Daniela Metz",
+      "href": "#",
+      "imageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    }
+  },
+  {
+    "title": "Improve your customer experience",
+    "href": "#",
+    "category": { "name": "Case Study", "href": "#" },
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint harum rerum voluptatem quo recusandae magni placeat saepe molestiae, sed excepturi cumque corporis perferendis hic.",
+    "date": "Feb 12, 2020",
+    "datetime": "2020-02-12",
+    "imageUrl": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
+    "readingTime": "11 min",
+    "author": {
+      "name": "Daniela Metz",
+      "href": "#",
+      "imageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    }
+  }
+]

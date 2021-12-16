@@ -3,11 +3,11 @@ import projects from "../data/projects.json";
 import ProjectCard from "./ProjectCard";
 
 export default function ProjectSection() {
-  const [currentProjects, setCurrentProjects] = useState(projects.slice(0, 3));
+  const [currentProjects, setCurrentProjects] = useState(projects);
 
   const setProjectCategory = (category) => {
     setCurrentProjects(
-      projects.filter((project) => project.category === category).slice(0, 3)
+      projects.filter((project) => project.category === category)
     );
   };
 
@@ -16,9 +16,7 @@ export default function ProjectSection() {
       <h1 className="text-3xl font-bold mb-2">Project Highlights</h1>
       <ul className="italic flex gap-6 mb-1">
         <li>
-          <button onClick={() => setCurrentProjects(projects.slice(0, 3))}>
-            All
-          </button>
+          <button onClick={() => setCurrentProjects(projects)}>All</button>
         </li>
         <li>
           <button onClick={() => setProjectCategory("multi-family")}>
@@ -41,15 +39,19 @@ export default function ProjectSection() {
           There are no projects with this cateogry.
         </p>
       )}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
-        {currentProjects.map((project) => (
-          <ProjectCard
-            key={project.id}
-            title={project.title}
-            image={project.image}
-            id={project.id}
-          />
-        ))}
+      <div className="relative w-full h-96 mb-12">
+        <div className="relative w-full flex gap-6 snap-x snap-mandatory overflow-x-scroll pb-4 ">
+          {currentProjects.map((project) => (
+            <div className="w-full md:w-1/3 flex-shrink-0 snap-start snap-always">
+              <ProjectCard
+                key={project.id}
+                title={project.title}
+                image={project.image}
+                id={project.id}
+              />
+            </div>
+          ))}
+        </div>
       </div>
       <div className="text-center">
         <a
