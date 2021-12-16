@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <div className="w-full h-128 bg-white relative">
       <img
-        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg"
+        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg"
         className={`w-full h-full object-cover object-center absolute inset-0 ${
           currentSlide === 1
             ? "translate-x-0 transition-transform duration-1000"
@@ -54,10 +54,10 @@ export default function Hero() {
           <div>
             <h1 className="font-semibold text-md text-white uppercase mb-2">
               {currentSlide === 1
-                ? "Multi-Family"
+                ? "Hospitality"
                 : currentSlide === 2
-                ? "Residential"
-                : "Industrial"}
+                ? "Multi-Family"
+                : "Hospitality"}
             </h1>
             <h1 className="font-bold text-white text-4xl uppercase">
               The

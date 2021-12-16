@@ -68,8 +68,7 @@
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390991/images/Projects/LeMeridien/C05-Edited_eahsrb.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/C04_-edited_bpgtnw.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/C01_xpi96r.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/Le_Meridien_Logo_hqqsto.png"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390945/images/Projects/LeMeridien/C01_xpi96r.jpg"
     ],
     "category": "hospitality",
     "stats": [
@@ -116,10 +115,8 @@
   {
     "id": "5",
     "title": "XR 1",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391171/images/Projects/XR1/res-console.cloudinary_wzeoxi_zdbr9y.jpg",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/IMG_5595_e6psd9.jpg",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391171/images/Projects/XR1/res-console.cloudinary_wzeoxi_zdbr9y.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/IMG_5595_e6psd9.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Side_-_East_View_btltfc.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Interior_2_b3sbrx.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Loading_Docs_lnfnzv.jpg",
@@ -134,7 +131,7 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "390"
+        "text": "0"
       },
       {
         "type": "startYear",
@@ -449,6 +446,216 @@
       {
         "type": "startYear",
         "text": "2021"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Portland and 82nd",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391617/images/Projects/SelfStorage/P82/extra_space_SE_82nd_003_vxfnwv.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391616/images/Projects/SelfStorage/P82/extra_space_SE_82nd_006_a0xpw4.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417462/images/Projects/SelfStorage/P82/extra_space_SE_82nd_077_fh8blz.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417414/images/Projects/SelfStorage/P82/extra_space_SE_82nd_035_npz01h.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391619/images/Projects/SelfStorage/P82/extra_space_SE_82nd_022_hyfmcq.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391619/images/Projects/SelfStorage/P82/extra_space_SE_82nd_050_cj10pd.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391617/images/Projects/SelfStorage/P82/extra_space_SE_82nd_008_dvo8w6.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "88,500"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Portland and Columbia",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417848/images/Projects/SelfStorage/PortlandColumbia/extra_space_columbia_001_xo2cgg.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417849/images/Projects/SelfStorage/PortlandColumbia/extra_space_columbia_019_r0jxnj.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417849/images/Projects/SelfStorage/PortlandColumbia/extra_space_columbia_008_dss6ws.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417848/images/Projects/SelfStorage/PortlandColumbia/extra_space_columbia_031_ezx6ux.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418013/images/Projects/SelfStorage/PortlandColumbia/extra_space_columbia_0101_ji9xq3.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417848/images/Projects/SelfStorage/PortlandColumbia/extra_space_columbia_024_uvtiwj.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "106,100"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Portland and Division",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418260/images/Projects/SelfStorage/PortlandDivision/extra_space_division_005_klgdus.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418253/images/Projects/SelfStorage/PortlandDivision/extra_space_division_013_vjilmo.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418262/images/Projects/SelfStorage/PortlandDivision/extra_space_division_061_blbqqp.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418261/images/Projects/SelfStorage/PortlandDivision/extra_space_division_027_avg1pu.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418258/images/Projects/SelfStorage/PortlandDivision/extra_space_division_072_q8rey6.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418047/images/Projects/SelfStorage/PortlandDivision/Division_-1_rb0pts.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418250/images/Projects/SelfStorage/PortlandDivision/extra_space_division_071_bmwokl.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "106,400"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Portland and Johnson Creek",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418320/images/Projects/SelfStorage/PortlandJohnsonCreek/johnson_creek_0045_lmfrfi.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418320/images/Projects/SelfStorage/PortlandJohnsonCreek/johnson_creek_0030_xuqygc.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639608582/images/Projects/SelfStorage/PortlandJohnsonCreek/johnson_creek_0019_hw1vyt.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639608483/images/Projects/SelfStorage/PortlandJohnsonCreek/johnson_creek_0014_kcqtij.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639608483/images/Projects/SelfStorage/PortlandJohnsonCreek/johnson_creek_0041_p1bjp9.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639608582/images/Projects/SelfStorage/PortlandJohnsonCreek/johnson_creek_0046_yngo3s.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "91,600"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Portland and York",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609080/images/Projects/SelfStorage/PortlandandYork/york_st_0025_ha8o7c.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639608875/images/Projects/SelfStorage/PortlandandYork/York_-_3_qcfe3r.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639608875/images/Projects/SelfStorage/PortlandandYork/York_-_1_udhgvq.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609081/images/Projects/SelfStorage/PortlandandYork/york_st_0005_nj4d78.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609080/images/Projects/SelfStorage/PortlandandYork/york_st_0002_pa8o20.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609079/images/Projects/SelfStorage/PortlandandYork/york_st_0043_jyq5y0.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609079/images/Projects/SelfStorage/PortlandandYork/york_st_0023_ggy6fn.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "114,000"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Vancouver and Ward",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609623/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_001_qwiuph.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609623/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_006_wapjgr.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609624/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_007_zlqfnh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609623/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_029_fjisul.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609623/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_025_ncwhms.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609623/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_008_ckztgl.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609623/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_013_ebuvws.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "78,200"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Hillsboro & 73rd",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611797/images/Projects/SelfStorage/Hillsboro73/get_space_H73_004_ybkwee.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611796/images/Projects/SelfStorage/Hillsboro73/get_space_H73_007_aknmm0.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611798/images/Projects/SelfStorage/Hillsboro73/get_space_H73_001_rizhiw.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611796/images/Projects/SelfStorage/Hillsboro73/get_space_H73_005_bqub1j.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611796/images/Projects/SelfStorage/Hillsboro73/get_space_H73_007_aknmm0.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611795/images/Projects/SelfStorage/Hillsboro73/get_space_H73_010_qamx7g.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611795/images/Projects/SelfStorage/Hillsboro73/get_space_H73_003_ytpubx.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "33,800"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Hillsboro & 15th",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417358/images/Projects/SelfStorage/Hillsboro/get_space_H15_010_qawptd.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417348/images/Projects/SelfStorage/Hillsboro/get_space_H15_001_qnytfh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417362/images/Projects/SelfStorage/Hillsboro/get_space_H15_002_vu7u4k.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417348/images/Projects/SelfStorage/Hillsboro/get_space_H15_012_claylq.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "77,700"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Portland and Broadway",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639613141/images/Projects/SelfStorage/PortlandandBroadway/broadway_001_uvklut.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639613141/images/Projects/SelfStorage/PortlandandBroadway/20160830_110013_e5ginb.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639613141/images/Projects/SelfStorage/PortlandandBroadway/20160831_112847_dgqkip.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639613141/images/Projects/SelfStorage/PortlandandBroadway/broadway_028_vk4ziq.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639613140/images/Projects/SelfStorage/PortlandandBroadway/broadway_005_f8e53y.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639613140/images/Projects/SelfStorage/PortlandandBroadway/broadway_019_nsxkoi.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "64,900"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Vancouver and 139th",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612859/images/Projects/SelfStorage/Vancouver139/get_space_v139_003_lxmlfi.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612860/images/Projects/SelfStorage/Vancouver139/get_space_v139_002_ksu2w1.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612860/images/Projects/SelfStorage/Vancouver139/get_space_v139_010_l1jsmk.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612860/images/Projects/SelfStorage/Vancouver139/get_space_v139_006_mi2baz.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612859/images/Projects/SelfStorage/Vancouver139/get_space_v139_011_yg5yqv.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612859/images/Projects/SelfStorage/Vancouver139/get_space_v139_015_yspxdx.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "76,400"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Hillsboro & Witch Hazel",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612272/images/Projects/SelfStorage/HillsboroandWitchHazel/get_space_H73_004_ldrplh.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612272/images/Projects/SelfStorage/HillsboroandWitchHazel/IMG_20180205_125025_sipgat.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612272/images/Projects/SelfStorage/HillsboroandWitchHazel/get_space_H73_009_tbpcma.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612272/images/Projects/SelfStorage/HillsboroandWitchHazel/IMG_20180205_122152_yjji6r.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "59,600"
       }
     ]
   }

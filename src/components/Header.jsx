@@ -72,10 +72,24 @@ export default function Header() {
                   </a>
 
                   <a
-                    href="#"
+                    href="/team"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
                     About Us
+                  </a>
+                 
+                  <a
+                    href="/ritchieFoundation"
+                    className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
+                  >
+                    Ritchie Foundation
+                  </a>
+
+                  <a
+                    href="/news"
+                    className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
+                  >
+                    News
                   </a>
 
                   <a
