@@ -79,7 +79,7 @@ export default function Header() {
                   </a>
                  
                   <a
-                    href="/giveBack"
+                    href="/ritchieFoundation"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
                     Ritchie Foundation

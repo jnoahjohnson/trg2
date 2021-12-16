@@ -1,0 +1,50 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import GiveBackLogos from "../components/GiveBackLogos.jsx";
+import giveBack from "../data/giveBack.json";
+---
+
+<MainLayout>
+  <div class="px-4 max-w-5xl mx-auto py-8">
+    <h1 class="text-3xl font-bold mb-2 text-center">We Value</h1>
+    <h1 class="text-3xl font-bold mb-2 text-center">
+      Giving Back to Our Community
+    </h1>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="grid grid-cols-2 gap-10">
+      <div>col1</div>
+      <div>
+        <h1 class="text-2xl font-bold mb-2 text-center">
+          Founder James Ritchie
+        </h1>
+        <img
+          class="object-right"
+          src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639621154/images/Headshots/James_Ritchie_-_9150_lezddj.jpg"
+        />
+      </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+      {giveBack.map((logo) => (
+        <GiveBackLogos
+          title={logo.title}
+          image={logo.image}
+          info={logo.info}
+          client:load
+        />
+      ))}
+    </div>
+  </div>
+</MainLayout>
