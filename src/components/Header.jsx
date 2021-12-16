@@ -86,6 +86,13 @@ export default function Header() {
                   </a>
 
                   <a
+                    href="/news"
+                    className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
+                  >
+                    News
+                  </a>
+
+                  <a
                     href="#"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >

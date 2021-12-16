@@ -1,43 +1,43 @@
 [
     {
         "id": "1",
-        "title": "Wasatch Communinity Foundation",
-        "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617016/images/GivingBackNew/wasatchcommunity_a8oapn.jpg",
-        "info": ""
+        "title": "Rotary International",
+        "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617293/images/GivingBackNew/Rotary_International_logo_yellow_ofcani.svg",
+        "info": "Add a little blurb here"
 
     },
     {
         "id": "2",
-        "title": "Rotary International",
-        "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617293/images/GivingBackNew/Rotary_International_logo_yellow_ofcani.svg",
-        "info": ""
-
-    },
-    {
-        "id": "3",
         "title": "Engage Now Africa",
         "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617359/images/GivingBackNew/engagenowafrica_tqdqjh.jpg",
         "info": ""
 
     },
     {
-        "id": "4",
+        "id": "3",
         "title": "BYU Hawaii",
         "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617409/images/GivingBackNew/byuh_egqk8p.png",
         "info": ""
 
     },
     {
-        "id": "5",
+        "id": "4",
         "title": "Ensign College",
         "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617609/images/GivingBackNew/ensign_l6dwsq.jpg",
         "info": ""
 
     },
     {
-        "id": "6",
+        "id": "5",
         "title": "Intermountain Healthcare",
         "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617785/images/GivingBackNew/logo-intermountain_izruzd.jpg",
+        "info": ""
+
+    },
+    {
+        "id": "6",
+        "title": "Wasatch Communinity Foundation",
+        "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639617016/images/GivingBackNew/wasatchcommunity_a8oapn.jpg",
         "info": ""
 
     },
