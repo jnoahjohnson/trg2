@@ -5,6 +5,10 @@ import {
   HashtagIcon,
   LocationMarkerIcon,
   PhotographIcon,
+  CalendarIcon,
+  OfficeBuildingIcon,
+  CurrencyDollarIcon, 
+  ViewBoardsIcon,
 } from "@heroicons/react/outline";
 
 export default function getIcon(type) {
@@ -12,9 +16,13 @@ export default function getIcon(type) {
     case "units":
       return <HashtagIcon />;
     case "startYear":
-      return <LocationMarkerIcon />;
+      return <CalendarIcon />;
     case "status":
-      return <CameraIcon />;
+      return <OfficeBuildingIcon />;
+    case "developmentalBudget":
+      return <CurrencyDollarIcon />;
+    case "squareFeet":
+      return <ViewBoardsIcon />;
     default:
       return <CogIcon />;
   }
