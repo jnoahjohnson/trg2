@@ -93,7 +93,7 @@ export default function Header() {
                   </a>
 
                   <a
-                    href="#"
+                    href="https://investors.appfolioim.com/ritchiegroup/investor"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
                     Investors
