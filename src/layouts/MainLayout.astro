@@ -4,16 +4,19 @@ import Footer from "../components/Footer.astro";
 let title = "The Ritchie Group";
 ---
 
-<html lang="en" class="bg-dark-bg h-full">
+<html lang="en" class="bg-dark-bg h-full overflow-x-hidden overflow-y-auto">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1"
+    />
     <title>{title}</title>
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="stylesheet" href={Astro.resolve("../styles/global.css")} />
   </head>
-  <body class="overflow-x-hidden bg-darkbg text-white h-full">
+  <body class=" bg-darkbg text-white h-full">
     <header>
       <Header client:load />
     </header>

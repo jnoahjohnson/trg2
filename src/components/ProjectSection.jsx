@@ -1,9 +1,50 @@
-import React, { useState } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import projects from "../data/projects.json";
 import ProjectCard from "./ProjectCard";
+import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/outline";
 
 export default function ProjectSection() {
   const [currentProjects, setCurrentProjects] = useState(projects);
+  const containerRef = useRef(null);
+
+  const [state, setState] = useState({
+    scroller: null,
+    itemWidth: 0,
+    isPrevHidden: true,
+    isNextHidden: false,
+  });
+
+  const next = () => {
+    state.scroller.scrollBy({
+      left: state.itemWidth * 3,
+      top: 0,
+      behavior: "smooth",
+    });
+
+    // Hide if is the last item
+    setState({ ...state, isNextHidden: true, isPrevHidden: false });
+  };
+
+  const prev = () => {
+    state.scroller.scrollBy({
+      left: -state.itemWidth * 3,
+      top: 0,
+      behavior: "smooth",
+    });
+    setState({ ...state, isNextHidden: false, isPrevHidden: true });
+    // Hide if is the last item
+    // Show remaining
+  };
+
+  useEffect(() => {
+    const items = containerRef.current.childNodes;
+    const scroller = containerRef.current;
+    const itemWidth = containerRef.current.firstElementChild?.clientWidth;
+
+    setState({ ...state, scroller, itemWidth });
+
+    return () => {};
+  }, [currentProjects]);
 
   const setProjectCategory = (category) => {
     setCurrentProjects(
@@ -40,7 +81,10 @@ export default function ProjectSection() {
         </p>
       )}
       <div className="relative w-full h-96 mb-12">
-        <div className="relative w-full flex gap-6 snap-x snap-mandatory overflow-x-scroll pb-4 ">
+        <div
+          className="relative w-full flex gap-6 snap-x snap-mandatory overflow-x-scroll overflow-y-hidden"
+          ref={containerRef}
+        >
           {currentProjects.map((project) => (
             <div className="w-full md:w-1/3 flex-shrink-0 snap-start snap-always">
               <ProjectCard
@@ -52,6 +96,18 @@ export default function ProjectSection() {
             </div>
           ))}
         </div>
+        <button
+          onClick={prev}
+          className="absolute left-0 top-0 bottom-0 my-auto z-40"
+        >
+          <ChevronLeftIcon className="w-14 h-14" />
+        </button>
+        <button
+          onClick={next}
+          className="absolute right-0 top-0 bottom-0 my-auto z-40"
+        >
+          <ChevronRightIcon className="w-14 h-14" />
+        </button>
       </div>
       <div className="text-center">
         <a
