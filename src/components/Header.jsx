@@ -99,7 +99,7 @@ export default function Header() {
                     Investors
                   </a>
                   <a
-                    href="#"
+                    href="/contact"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
                     Contact Us
