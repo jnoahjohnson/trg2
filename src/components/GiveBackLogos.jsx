@@ -13,9 +13,9 @@ export default function GiveBackLogos({ title, image, info }) {
         <div className="absolute inset-0 bg-gradient-to-t from-gray-800 to-gray-400 mix-blend-multiply hover:bg-sushi transition-all duration-300 opacity-0 group-hover:opacity-50"></div>
         <div className="relative opacity-0 group-hover:opacity-100 transition duration-150">
           <h1 className="text-3xl font-bold mb-1">{title}</h1>
-          <button onClick={() => setIsOpen(true)} className="text-white">
+          {/* <button onClick={() => setIsOpen(true)} className="text-white">
             See More
-          </button>
+          </button> */}
         </div>
       </div>
       <div
