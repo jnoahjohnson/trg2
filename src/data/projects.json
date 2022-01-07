@@ -409,13 +409,13 @@
   {
     "id": "12",
     "title": "Rivulet",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/The_Rivulet_smq4fw.jpg",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
     "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/The_Rivulet_smq4fw.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_6_vwny5n.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_5_rm4ob0.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_4_i7qgzs.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_3_tkneoa.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_2_fymlif.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3392_WEB_j8m1sr.jpg",
@@ -454,11 +454,12 @@
     "title": "The Charles",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
     "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C05_lnvkny.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg"
+      
     ],
     "category": "hospitality",
     "stats": [

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { XIcon } from "@heroicons/react/outline";
 
-export default function TeamCard({ name, headshot, title, bio }) {
+export default function TeamCard({ name, headshot, title, bio, linkedin }) {
   let [isOpen, setIsOpen] = useState(false);
   return (
     <div>
@@ -45,7 +45,7 @@ export default function TeamCard({ name, headshot, title, bio }) {
                 <div className="flex items-end justify-center w-full">
                   <h1 className="text-5xl font-bold mr-4">{name}</h1>
                   <div className="mb-1">
-                    <a href="#" class="text-gray-300 hover:text-gray-400">
+                    <a href={linkedin} class="text-gray-300 hover:text-gray-400">
                       <span class="sr-only">LinkedIn</span>
                       <svg
                         class="h-8 w-8"

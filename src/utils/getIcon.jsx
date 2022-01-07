@@ -10,6 +10,7 @@ import {
   CurrencyDollarIcon, 
   ViewBoardsIcon,
   ClipboardListIcon,
+  VideoCameraIcon,
 } from "@heroicons/react/outline";
 
 export default function getIcon(type) {
@@ -32,6 +33,8 @@ export default function getIcon(type) {
       return <ViewBoardsIcon />;
     case "type":
       return <ClipboardListIcon />;
+    case "liveVideo":
+      return <VideoCameraIcon />; 
     default:
       return <CogIcon />;
   }
