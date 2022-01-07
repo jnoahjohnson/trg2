@@ -19,16 +19,20 @@
         "text": "390"
       },
       {
-        "type": "startYear",
-        "text": "2015"
+        "type": "completedYear",
+        "text": "2018"
       },
       {
         "type": "status",
-        "text": "Sold"
+        "text": "Completed"
       },
       {
-        "type": "developmentBudget",
-        "text": "$32,000,000.00"
+        "type": "type",
+        "text": "Adaptive Reuse"
+      },
+      {
+        "type": "location",
+        "text": "Orem, UT"
       }
     ]
   },
@@ -44,7 +48,7 @@
     "category": "hospitality",
     "stats": [
       {
-        "type": "units",
+        "type": "keys",
         "text": "126"
       },
       {
@@ -56,8 +60,12 @@
         "text": "Under Construction"
       },
       {
-        "type": "developmentBudget",
-        "text": "0"
+        "type": "type",
+        "text": "Limited Service"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
@@ -73,7 +81,7 @@
     "category": "hospitality",
     "stats": [
       {
-        "type": "units",
+        "type": "keys",
         "text": "144"
       },
       {
@@ -85,8 +93,12 @@
         "text": "Under Construction"
       },
       {
-        "type": "developmentBudget",
-        "text": "0"
+        "type": "type",
+        "text": "Full Service"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
@@ -103,18 +115,30 @@
     "category": "hospitality",
     "stats": [
       {
-        "type": "units",
+        "type": "keys",
         "text": "306"
       },
       {
-        "type": "startYear",
-        "text": "2006"
+        "type": "completedYear",
+        "text": "2008"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Resort"
+      },
+      {
+        "type": "Location",
+        "text": "Kauai, HI"
       }
     ]
   },
   {
     "id": "5",
-    "title": "XR 1",
+    "title": "XR International I",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/IMG_5595_e6psd9.jpg",
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Side_-_East_View_btltfc.jpg",
@@ -131,11 +155,23 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "0"
+        "text": "456,000"
       },
       {
-        "type": "startYear",
+        "type": "completedYear",
         "text": "2019"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Cross Dock"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
@@ -155,13 +191,29 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "91,900"
+        "text": "105,428"
+      },
+      {
+        "type": "completedYear",
+        "text": "2018"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Nantucket, MA"
       }
     ]
   },
   {
-    "id": "8",
-    "title": "AF 860",
+    "id": "7",
+    "title": "AF II",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg",
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg",
@@ -182,14 +234,18 @@
         "text": "Under Construction"
       },
       {
-        "type": "developmentBudget",
-        "text": "$114,000,000.00"
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "American Fork, UT"
       }
     ]
   },
   {
-    "id": "9",
-    "title": "AF 111",
+    "id": "8",
+    "title": "AF III",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg",
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg"
@@ -206,16 +262,20 @@
       },
       {
         "type": "status",
-        "text": "Predevelopment"
+        "text": "Pre-Development"
       },
       {
-        "type": "developmentBudget",
-        "text": "$72,000,000.00"
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "American Fork, UT"
       }
     ]
   },
   {
-    "id": "10",
+    "id": "9",
     "title": "Element 31",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419582/images/Projects/Element31/Element_31_MR_7_of_76_ewf2w8.jpg",
     "carousel": [
@@ -254,21 +314,25 @@
         "text": "208"
       },
       {
-        "type": "startYear",
-        "text": "2014"
+        "type": "completedYear",
+        "text": "2016"
       },
       {
         "type": "status",
-        "text": "Owned"
+        "text": "Completed"
       },
       {
-        "type": "developmentBudget",
-        "text": "$32,000,000.00"
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
   {
-    "id": "11",
+    "id": "10",
     "title": "Oakwood Mundy Mills",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
     "carousel": [
@@ -287,16 +351,20 @@
       },
       {
         "type": "status",
-        "text": "Plans Submitted"
+        "text": "Pre-Development"
       },
       {
-        "type": "developmentBudget",
-        "text": "$60,000,000.00"
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Oakwood, GA"
       }
     ]
   },
   {
-    "id": "12",
+    "id": "11",
     "title": "Northridge Apartments",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
     "carousel": [
@@ -322,24 +390,32 @@
       },
       {
         "type": "status",
-        "text": "Under Construction"
+        "text": "Completed"
       },
       {
         "type": "developmentBudget",
         "text": "$15,000,000.00"
+      },
+      {
+        "type": "type",
+        "text": "Value Add Remodel"
+      },
+      {
+        "type": "location",
+        "text": "Weber County, UT"
       }
     ]
   },
   {
-    "id": "13",
+    "id": "12",
     "title": "Rivulet",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/The_Rivulet_smq4fw.jpg",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
     "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/The_Rivulet_smq4fw.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_6_vwny5n.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_5_rm4ob0.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_4_i7qgzs.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_3_tkneoa.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_2_fymlif.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3392_WEB_j8m1sr.jpg",
@@ -357,28 +433,33 @@
       },
       {
         "type": "startYear",
-        "text": "2016"
+        "text": "2018"
       },
       {
         "type": "status",
-        "text": "Owned"
+        "text": "Completed"
       },
       {
-        "type": "developmentBudget",
-        "text": "$39,500,000.00"
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "American Fork, UT"
       }
     ]
   },
   {
-    "id": "14",
+    "id": "13",
     "title": "The Charles",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
     "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C05_lnvkny.jpg",
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg"
+      
     ],
     "category": "hospitality",
     "stats": [
@@ -395,13 +476,17 @@
         "text": "Under Construction"
       },
       {
-        "type": "developmentBudget",
-        "text": "$89,000,000.00"
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
   {
-    "id": "15",
+    "id": "14",
     "title": "The Stack",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg",
     "carousel": [
@@ -422,14 +507,18 @@
         "text": "Under Construction"
       },
       {
-        "type": "developmentBudget",
-        "text": "$65,000,000.00"
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
   {
-    "id": "16",
-    "title": "XR 3",
+    "id": "15",
+    "title": "XR International III",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
     "carousel": [
       "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
@@ -444,13 +533,29 @@
     "category": "industrial",
     "stats": [
       {
-        "type": "startYear",
+        "type": "squareFeet",
+        "text": "325,000"
+      },
+      {
+        "type": "completedYear",
         "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Cross Dock"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
   {
-    "id": "17",
+    "id": "16",
     "title": "Portland and 82nd",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391617/images/Projects/SelfStorage/P82/extra_space_SE_82nd_003_vxfnwv.jpg",
     "carousel": [
@@ -465,12 +570,32 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "88,500"
+        "text": "88,566"
+      },
+      {
+        "type": "units",
+        "text": "727"
+      },
+      {
+        "type": "completedYear",
+        "text": "2019"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Portland, OR"
       }
     ]
   },
   {
-    "id": "18",
+    "id": "17",
     "title": "Portland and Columbia",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417848/images/Projects/SelfStorage/PortlandColumbia/extra_space_columbia_001_xo2cgg.jpg",
     "carousel": [
@@ -484,12 +609,32 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "106,100"
+        "text": "106,125"
+      },
+      {
+        "type": "units",
+        "text": "794"
+      },
+      {
+        "type": "completedYear",
+        "text": "2017"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Portland, OR"
       }
     ]
   },
   {
-    "id": "19",
+    "id": "18",
     "title": "Portland and Division",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418260/images/Projects/SelfStorage/PortlandDivision/extra_space_division_005_klgdus.jpg",
     "carousel": [
@@ -504,12 +649,32 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "106,400"
+        "text": "110,905"
+      },
+      {
+        "type": "units",
+        "text": "851"
+      },
+      {
+        "type": "completedYear",
+        "text": "2017"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Portland, OR"
       }
     ]
   },
   {
-    "id": "20",
+    "id": "19",
     "title": "Portland and Johnson Creek",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418320/images/Projects/SelfStorage/PortlandJohnsonCreek/johnson_creek_0045_lmfrfi.jpg",
     "carousel": [
@@ -523,12 +688,32 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "91,600"
+        "text": "91,648"
+      },
+      {
+        "type": "units",
+        "text": "741"
+      },
+      {
+        "type": "completedYear",
+        "text": "2018"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Portland, OR"
       }
     ]
   },
   {
-    "id": "21",
+    "id": "20",
     "title": "Portland and York",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609080/images/Projects/SelfStorage/PortlandandYork/york_st_0025_ha8o7c.jpg",
     "carousel": [
@@ -544,11 +729,31 @@
       {
         "type": "squareFeet",
         "text": "114,000"
+      },
+      {
+        "type": "units",
+        "text": "895"
+      },
+      {
+        "type": "completedYear",
+        "text": "2018"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Portland, OR"
       }
     ]
   },
   {
-    "id": "22",
+    "id": "21",
     "title": "Vancouver and Ward",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639609623/images/Projects/SelfStorage/VancouverandWard/Get_Space_VWAR_001_qwiuph.jpg",
     "carousel": [
@@ -563,12 +768,32 @@
     "stats": [
       {
         "type": "squareFeet",
-        "text": "78,200"
+        "text": "78,157"
+      },
+      {
+        "type": "units",
+        "text": "567"
+      },
+      {
+        "type": "completedYear",
+        "text": "2018"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Vancouver, WA"
       }
     ]
   },
   {
-    "id": "23",
+    "id": "22",
     "title": "Hillsboro & 73rd",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639611797/images/Projects/SelfStorage/Hillsboro73/get_space_H73_004_ybkwee.jpg",
     "carousel": [
@@ -584,11 +809,31 @@
       {
         "type": "squareFeet",
         "text": "33,800"
+      },
+      {
+        "type": "units",
+        "text": "285"
+      },
+      {
+        "type": "completedYear",
+        "text": "2015"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Hillsboro, OR"
       }
     ]
   },
   {
-    "id": "24",
+    "id": "23",
     "title": "Hillsboro & 15th",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638417358/images/Projects/SelfStorage/Hillsboro/get_space_H15_010_qawptd.jpg",
     "carousel": [
@@ -601,11 +846,31 @@
       {
         "type": "squareFeet",
         "text": "77,700"
+      },
+      {
+        "type": "units",
+        "text": "603"
+      },
+      {
+        "type": "completedYear",
+        "text": "2015"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Hillsboro, OR"
       }
     ]
   },
   {
-    "id": "25",
+    "id": "24",
     "title": "Portland and Broadway",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639613141/images/Projects/SelfStorage/PortlandandBroadway/broadway_001_uvklut.jpg",
     "carousel": [
@@ -620,11 +885,31 @@
       {
         "type": "squareFeet",
         "text": "64,900"
+      },
+      {
+        "type": "units",
+        "text": "512"
+      },
+      {
+        "type": "completedYear",
+        "text": "2016"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Portland, OR"
       }
     ]
   },
   {
-    "id": "26",
+    "id": "25",
     "title": "Vancouver and 139th",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612859/images/Projects/SelfStorage/Vancouver139/get_space_v139_003_lxmlfi.jpg",
     "carousel": [
@@ -639,11 +924,31 @@
       {
         "type": "squareFeet",
         "text": "76,400"
+      },
+      {
+        "type": "units",
+        "text": "570"
+      },
+      {
+        "type": "completedYear",
+        "text": "2016"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Vancouver, WA"
       }
     ]
   },
   {
-    "id": "27",
+    "id": "26",
     "title": "Hillsboro & Witch Hazel",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1639612272/images/Projects/SelfStorage/HillsboroandWitchHazel/get_space_H73_004_ldrplh.jpg",
     "carousel": [
@@ -656,6 +961,26 @@
       {
         "type": "squareFeet",
         "text": "59,600"
+      },
+      {
+        "type": "units",
+        "text": "445"
+      },
+      {
+        "type": "completedYear",
+        "text": "2017"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Self-Storage"
+      },
+      {
+        "type": "location",
+        "text": "Hillsboro OR"
       }
     ]
   }

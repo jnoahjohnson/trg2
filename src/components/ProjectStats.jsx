@@ -16,7 +16,7 @@ export default function ProjectStats({ stats }) {
               {getDisplayName(stat.type)}
             </p>
           </div>
-          <p className="text-4xl font-semibold">{stat.text}</p>
+          <p className="text-3xl font-semibold">{stat.text}</p>
         </div>
       ))}
     </div>

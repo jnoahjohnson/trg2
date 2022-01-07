@@ -34,7 +34,7 @@ import news from "../data/news.json";
 
     <div class="px-4 max-w-5xl mx-auto py-8">
       <h1 class="text-3xl font-bold mb-1">Latest News</h1>
-      <a class="text-gray-400" href="/projects">All Articles</a>
+      <a class="text-gray-400" href="/news">All Articles</a>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
         {news
           .slice(0, 3)
@@ -53,9 +53,9 @@ import news from "../data/news.json";
           ))}
       </div>
     </div>
-    <div class="px-4 max-w-5xl mx-auto py-8">
+    <!-- <div class="px-4 max-w-5xl mx-auto py-8">
       <h1 class="text-3xl font-bold mb-6">Comments From Our Clients</h1>
       <Testimonials />
-    </div>
+    </div> -->
   </main>
 </MainLayout>
