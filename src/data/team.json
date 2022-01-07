@@ -1,81 +1,81 @@
 [
     {
-        "name": "Ryan Ritchie",
-        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248843/images/Headshots-1-2022/Ryan_Ritchie_p8hsqd.jpg",
-        "title": "Founder & Principal",
-        "bio": "I work here"
-    },
-    {
         "name": "Paul Ritchie",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Paul_Ritchie_hvoygy.jpg",
         "title": "Founder & Principal",
-        "bio": "I work here"
-    },
-    {
-        "name": "Rob Heywood",
-        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Robert_Heywood_zxedyr.jpg",
-        "title": "Founder & Principal",
-        "bio": "I work here"
+        "bio": ""
     },
     {
         "name": "Jayson Newitt",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248685/images/Headshots-1-2022/Jayson_Newitt_sq3hah.jpg",
         "title": "Founder & Principal",
-        "bio": "I work here"
+        "bio": ""
+    },
+    {
+        "name": "Rob Heywood",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Robert_Heywood_zxedyr.jpg",
+        "title": "Founder & Principal",
+        "bio": ""
+    },
+    {
+        "name": "Ryan Ritchie",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248843/images/Headshots-1-2022/Ryan_Ritchie_p8hsqd.jpg",
+        "title": "Founder & Principal",
+        "bio": ""
     },
     {
         "name": "Corey Berg",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248685/images/Headshots-1-2022/Corey_Berg_zmjtog.jpg",
         "title": "Principal & Project Management",
-        "bio": "I work here"
+        "bio": ""
     },
     {
         "name": "Dean Clark",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248685/images/Headshots-1-2022/Dean_Clark_yxotar.jpg",
         "title": "Principal & Controller",
-        "bio": "I work here"
+        "bio": ""
     },
     {
         "name": "Scott Laneri",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Scott_Laneri_hboevx.jpg",
         "title": "Principal & Project Management",
-        "bio": "I work here"
-    },
-    {
-        "name": "Jonathan Ritchie",
-        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Jonathan_Ritchie_yrqnjm.jpg",
-        "title": "Principal & Project Management",
-        "bio": "I work here"
-    },
-    {
-        "name": "Tyler Ritchie",
-        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Tyler_Ritchie_ecut2k.jpg",
-        "title": "Principal & Operations",
-        "bio": "I work here"
+        "bio": ""
     },
     {
         "name": "Dave Hennefer",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248685/images/Headshots-1-2022/Dave_Hennefer_vqfqkp.jpg",
         "title": "Project Management",
-        "bio": "I work here"
+        "bio": ""
     }, 
+    {
+        "name": "Tyler Ritchie",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Tyler_Ritchie_ecut2k.jpg",
+        "title": "Principal & Operations",
+        "bio": ""
+    },
     {
         "name": "Stephanie Acton",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Stephanie_Acton_fa8n0b.jpg",
         "title": "Accounting",
-        "bio": "I work here"
-    }, 
+        "bio": ""
+    },
     {
         "name": "David Womeldorf",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248685/images/Headshots-1-2022/David_Womeldorf_iq3wbt.jpg",
         "title": "Accounting ",
-        "bio": "I work here"
-    }, 
+        "bio": ""
+    },  
+    {
+        "name": "Jonathan Ritchie",
+        "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248686/images/Headshots-1-2022/Jonathan_Ritchie_yrqnjm.jpg",
+        "title": "Principal & Project Management",
+        "bio": ""
+    },
     {
         "name": "Scott Maloof",
         "headshot": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1641248843/images/Headshots-1-2022/Scott_Maloof_yrndwc.jpg",
         "title": "Property Management",
-        "bio": "I work here"
+        "bio": ""
     }
 
 ]

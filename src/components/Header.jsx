@@ -78,12 +78,12 @@ export default function Header() {
                     About Us
                   </a>
                  
-                  <a
+                  {/* <a
                     href="/ritchieFoundation"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
                     Ritchie Foundation
-                  </a>
+                  </a> */}
 
                   <a
                     href="/news"
@@ -96,7 +96,7 @@ export default function Header() {
                     href="https://investors.appfolioim.com/ritchiegroup/investor"
                     className="text-4xl font-semibold text-gray-200 hover:text-gray-400"
                   >
-                    Investors
+                    Investor Portal
                   </a>
                   <a
                     href="/contact"
