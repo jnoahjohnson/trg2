@@ -13,5 +13,18 @@
       "href": "#",
       "imageUrl": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Tyler_Ritchie_-_9415_fxilr6.jpg"
     }
+  },
+  {
+    "title": "The West Quarter | Beam Topping Celebration | August 26, 2021",
+    "href": "https://www.youtube.com/watch?v=B4qw_WQfqcA",
+    "category": { "name": "Video", "href": "https://www.youtube.com/watch?v=B4qw_WQfqcA" },
+    "description": "The West Quarter building teams and Salt Lake community leaders celebrate a construction milestone together on August 26, 2021",
+    "date": "Aug, 26, 2021",
+    "datetime": "2021-08-26",
+    "imageUrl": "https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=779&q=80",
+    "author": {
+      "name": "Jacobsen Construction",
+      "imageUrl": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638994397/images/Headshots/Tyler_Ritchie_-_9415_fxilr6.jpg"
+    }
   }
 ]
