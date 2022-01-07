@@ -1,26 +1,90 @@
 [
   {
-    "id": "1",
-    "title": "Midtown 360",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
+    "id": "10",
+    "title": "Oakwood Mundy Mills",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419505/images/Projects/Midtown360/Midtown_360_HR_106_of_116_edit_x66rmh.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419229/images/Projects/Midtown360/Midtown_360_HR_114_of_116_edit_gt95rs.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419225/images/Projects/Midtown360/Midtown_360_MR_14_of_116_edit_af5kvn.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4660_WEB_clyehp.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4396_WEB_na148g.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419223/images/Projects/Midtown360/_LLC4593_WEB_tqvmuq.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
     ],
     "category": "multi-family",
     "stats": [
       {
         "type": "units",
-        "text": "390"
+        "text": "248"
       },
       {
-        "type": "completedYear",
-        "text": "2018"
+        "type": "year Started",
+        "text": "2022"
+      },
+      {
+        "type": "status",
+        "text": "Pre-Development"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Oakwood, GA"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "AF III",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "352"
+      },
+      {
+        "type": "year Started",
+        "text": "2022"
+      },
+      {
+        "type": "status",
+        "text": "Pre-Development"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "American Fork, UT"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "XR International III",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside3_gdrcug.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside6_avh7wh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-2_sc1ymz.png",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside5_e4xcdy.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside4-jpg_z9jxc6.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside1_zixdcw.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810190/images/Projects/XR3/XR3-inside2_bwwhhl.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "325,000"
+      },
+      {
+        "type": "year Completed",
+        "text": "2021"
       },
       {
         "type": "status",
@@ -28,31 +92,29 @@
       },
       {
         "type": "type",
-        "text": "Adaptive Reuse"
+        "text": "Cross Dock"
       },
       {
         "type": "location",
-        "text": "Orem, UT"
+        "text": "Salt Lake City, UT"
       }
     ]
   },
   {
-    "id": "2",
-    "title": "Element by Westin",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Block67/ElementSLC_umuxtb.png",
+    "id": "14",
+    "title": "The Stack",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390477/images/Projects/Block67/Block67_11_-_Photo_g5ajlu.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390476/images/Projects/Block67/Block67_2_-_Photo_buhlno.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Block67/ElementSLC_umuxtb.png"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg"
     ],
-    "category": "hospitality",
+    "category": "mulit-family",
     "stats": [
       {
-        "type": "keys",
-        "text": "126"
+        "type": "units",
+        "text": "254"
       },
       {
-        "type": "startYear",
+        "type": "year Started",
         "text": "2020"
       },
       {
@@ -61,7 +123,81 @@
       },
       {
         "type": "type",
-        "text": "Limited Service"
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Northridge Apartments",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR2_irmtat.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR3_czgdoa.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR6_k83ezn.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR7_zybsbb.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR5_xni12w.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR8_jf9ufn.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR4_ic9hao.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466351/images/Projects/NorthridgeApts/NORTHRIDGE_logo_f5inyr.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "100"
+      },
+      {
+        "type": "year Started",
+        "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Value Add Remodel"
+      },
+      {
+        "type": "location",
+        "text": "Weber County, UT"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "The Charles",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C05_lnvkny.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "240"
+      },
+      {
+        "type": "year Started",
+        "text": "2019"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
       },
       {
         "type": "location",
@@ -85,7 +221,7 @@
         "text": "144"
       },
       {
-        "type": "startYear",
+        "type": "year Started",
         "text": "2020"
       },
       {
@@ -103,36 +239,35 @@
     ]
   },
   {
-    "id": "4",
-    "title": "Koloa Landing",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390629/images/Projects/KoloaLanding/lihak-exterior-0085-hor-wide_bvujel.jpg",
+    "id": "2",
+    "title": "Element by Westin",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Block67/ElementSLC_umuxtb.png",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390629/images/Projects/KoloaLanding/lihak-exterior-0085-hor-wide_bvujel.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390628/images/Projects/KoloaLanding/lihak-pool-0016-hor-wide_afiawq.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390628/images/Projects/KoloaLanding/lihak-villa-0059-hor-wide_w98dnl.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/KoloaLanding/KoloaPool_w7p20x.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390477/images/Projects/Block67/Block67_11_-_Photo_g5ajlu.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390476/images/Projects/Block67/Block67_2_-_Photo_buhlno.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390281/images/Projects/Block67/ElementSLC_umuxtb.png"
     ],
     "category": "hospitality",
     "stats": [
       {
         "type": "keys",
-        "text": "306"
+        "text": "126"
       },
       {
-        "type": "completedYear",
-        "text": "2008"
+        "type": "year Started",
+        "text": "2020"
       },
       {
         "type": "status",
-        "text": "Completed"
+        "text": "Under Construction"
       },
       {
         "type": "type",
-        "text": "Resort"
+        "text": "Limited Service"
       },
       {
-        "type": "Location",
-        "text": "Kauai, HI"
+        "type": "location",
+        "text": "Salt Lake City, UT"
       }
     ]
   },
@@ -158,7 +293,7 @@
         "text": "456,000"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2019"
       },
       {
@@ -172,42 +307,6 @@
       {
         "type": "location",
         "text": "Salt Lake City, UT"
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "title": "Nantucket Self-Storage",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.04_AM_zmuzys.png",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.04_AM_zmuzys.png",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.13_AM_fugcrz.png",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.51.18_AM_sriwcx.png",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.52.51_AM_bgkadt.png",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465679/images/Projects/Nantucket/IMG_20180816_111208_r9wwi5.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/Nantucket/Nantucket_droneShot_ddlnlq.png"
-    ],
-    "category": "industrial",
-    "stats": [
-      {
-        "type": "squareFeet",
-        "text": "105,428"
-      },
-      {
-        "type": "completedYear",
-        "text": "2018"
-      },
-      {
-        "type": "status",
-        "text": "Completed"
-      },
-      {
-        "type": "type",
-        "text": "Self-Storage"
-      },
-      {
-        "type": "location",
-        "text": "Nantucket, MA"
       }
     ]
   },
@@ -226,7 +325,7 @@
         "text": "512"
       },
       {
-        "type": "startYear",
+        "type": "year Started",
         "text": "2021"
       },
       {
@@ -244,25 +343,37 @@
     ]
   },
   {
-    "id": "8",
-    "title": "AF III",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg",
+    "id": "12",
+    "title": "Rivulet",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466919/images/Projects/AF111/6-23-2021_Rendering_1_khjfka.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/The_Rivulet_smq4fw.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_6_vwny5n.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_5_rm4ob0.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_4_i7qgzs.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_3_tkneoa.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_2_fymlif.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3392_WEB_j8m1sr.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3241_WEB_zidllg.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3361_WEB_bpevxl.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC0674_WEB_wqf6bs.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC0713_WEB_lrccjr.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3349_WEB_zlv5l7.jpg"
     ],
     "category": "multi-family",
     "stats": [
       {
         "type": "units",
-        "text": "352"
+        "text": "252"
       },
       {
-        "type": "startYear",
-        "text": "2022"
+        "type": "year Started",
+        "text": "2018"
       },
       {
         "type": "status",
-        "text": "Pre-Development"
+        "text": "Completed"
       },
       {
         "type": "type",
@@ -271,6 +382,43 @@
       {
         "type": "location",
         "text": "American Fork, UT"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Midtown 360",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419505/images/Projects/Midtown360/Midtown_360_HR_106_of_116_edit_x66rmh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419229/images/Projects/Midtown360/Midtown_360_HR_114_of_116_edit_gt95rs.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419225/images/Projects/Midtown360/Midtown_360_MR_14_of_116_edit_af5kvn.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4660_WEB_clyehp.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4396_WEB_na148g.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419223/images/Projects/Midtown360/_LLC4593_WEB_tqvmuq.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "390"
+      },
+      {
+        "type": "year Completed",
+        "text": "2018"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Adaptive Reuse"
+      },
+      {
+        "type": "location",
+        "text": "Orem, UT"
       }
     ]
   },
@@ -314,7 +462,7 @@
         "text": "208"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2016"
       },
       {
@@ -330,109 +478,27 @@
         "text": "Salt Lake City, UT"
       }
     ]
-  },
+  },  
   {
-    "id": "10",
-    "title": "Oakwood Mundy Mills",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
+    "id": "6",
+    "title": "Nantucket Self-Storage",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.04_AM_zmuzys.png",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.04_AM_zmuzys.png",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.54.13_AM_fugcrz.png",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.51.18_AM_sriwcx.png",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465680/images/Projects/Nantucket/Screen_Shot_2019-12-31_at_7.52.51_AM_bgkadt.png",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638465679/images/Projects/Nantucket/IMG_20180816_111208_r9wwi5.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/Nantucket/Nantucket_droneShot_ddlnlq.png"
     ],
-    "category": "multi-family",
+    "category": "industrial",
     "stats": [
       {
-        "type": "units",
-        "text": "248"
+        "type": "squareFeet",
+        "text": "105,428"
       },
       {
-        "type": "startYear",
-        "text": "2022"
-      },
-      {
-        "type": "status",
-        "text": "Pre-Development"
-      },
-      {
-        "type": "type",
-        "text": "Ground Up"
-      },
-      {
-        "type": "location",
-        "text": "Oakwood, GA"
-      }
-    ]
-  },
-  {
-    "id": "11",
-    "title": "Northridge Apartments",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR2_irmtat.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR3_czgdoa.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR6_k83ezn.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR7_zybsbb.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR5_xni12w.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR8_jf9ufn.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR4_ic9hao.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466351/images/Projects/NorthridgeApts/NORTHRIDGE_logo_f5inyr.jpg"
-    ],
-    "category": "multi-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "100"
-      },
-      {
-        "type": "startYear",
-        "text": "2021"
-      },
-      {
-        "type": "status",
-        "text": "Completed"
-      },
-      {
-        "type": "developmentBudget",
-        "text": "$15,000,000.00"
-      },
-      {
-        "type": "type",
-        "text": "Value Add Remodel"
-      },
-      {
-        "type": "location",
-        "text": "Weber County, UT"
-      }
-    ]
-  },
-  {
-    "id": "12",
-    "title": "Rivulet",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_uj0jez.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/The_Rivulet_smq4fw.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_6_vwny5n.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_5_rm4ob0.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_4_i7qgzs.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_3_tkneoa.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464365/images/Projects/Rivulet/Rivulet_2_fymlif.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3392_WEB_j8m1sr.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3241_WEB_zidllg.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3361_WEB_bpevxl.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC0674_WEB_wqf6bs.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC0713_WEB_lrccjr.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464364/images/Projects/Rivulet/_LLC3349_WEB_zlv5l7.jpg"
-    ],
-    "category": "multi-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "252"
-      },
-      {
-        "type": "startYear",
+        "type": "year Completed",
         "text": "2018"
       },
       {
@@ -441,118 +507,14 @@
       },
       {
         "type": "type",
-        "text": "Ground Up"
+        "text": "Self-Storage"
       },
       {
         "type": "location",
-        "text": "American Fork, UT"
+        "text": "Nantucket, MA"
       }
     ]
-  },
-  {
-    "id": "13",
-    "title": "The Charles",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C05_lnvkny.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg"
-    ],
-    "category": "hospitality",
-    "stats": [
-      {
-        "type": "units",
-        "text": "240"
-      },
-      {
-        "type": "startYear",
-        "text": "2019"
-      },
-      {
-        "type": "status",
-        "text": "Under Construction"
-      },
-      {
-        "type": "type",
-        "text": "Ground Up"
-      },
-      {
-        "type": "location",
-        "text": "Salt Lake City, UT"
-      }
-    ]
-  },
-  {
-    "id": "14",
-    "title": "The Stack",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg"
-    ],
-    "category": "mulit-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "254"
-      },
-      {
-        "type": "startYear",
-        "text": "2020"
-      },
-      {
-        "type": "status",
-        "text": "Under Construction"
-      },
-      {
-        "type": "type",
-        "text": "Ground Up"
-      },
-      {
-        "type": "location",
-        "text": "Salt Lake City, UT"
-      }
-    ]
-  },
-  {
-    "id": "15",
-    "title": "XR International III",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside3_gdrcug.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside6_avh7wh.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-2_sc1ymz.png",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside5_e4xcdy.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside4-jpg_z9jxc6.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810191/images/Projects/XR3/XR3-inside1_zixdcw.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638810190/images/Projects/XR3/XR3-inside2_bwwhhl.jpg"
-    ],
-    "category": "industrial",
-    "stats": [
-      {
-        "type": "squareFeet",
-        "text": "325,000"
-      },
-      {
-        "type": "completedYear",
-        "text": "2021"
-      },
-      {
-        "type": "status",
-        "text": "Completed"
-      },
-      {
-        "type": "type",
-        "text": "Cross Dock"
-      },
-      {
-        "type": "location",
-        "text": "Salt Lake City, UT"
-      }
-    ]
-  },
+  },    
   {
     "id": "16",
     "title": "Portland and 82nd",
@@ -576,7 +538,7 @@
         "text": "727"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2019"
       },
       {
@@ -615,7 +577,7 @@
         "text": "794"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2017"
       },
       {
@@ -655,7 +617,7 @@
         "text": "851"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2017"
       },
       {
@@ -694,7 +656,7 @@
         "text": "741"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2018"
       },
       {
@@ -734,7 +696,7 @@
         "text": "895"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2018"
       },
       {
@@ -774,7 +736,7 @@
         "text": "567"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2018"
       },
       {
@@ -814,7 +776,7 @@
         "text": "285"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2015"
       },
       {
@@ -851,7 +813,7 @@
         "text": "603"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2015"
       },
       {
@@ -890,7 +852,7 @@
         "text": "512"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2016"
       },
       {
@@ -929,7 +891,7 @@
         "text": "570"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2016"
       },
       {
@@ -966,7 +928,7 @@
         "text": "445"
       },
       {
-        "type": "completedYear",
+        "type": "year Completed",
         "text": "2017"
       },
       {
@@ -980,6 +942,40 @@
       {
         "type": "location",
         "text": "Hillsboro OR"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Koloa Landing",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390629/images/Projects/KoloaLanding/lihak-exterior-0085-hor-wide_bvujel.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390629/images/Projects/KoloaLanding/lihak-exterior-0085-hor-wide_bvujel.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390628/images/Projects/KoloaLanding/lihak-pool-0016-hor-wide_afiawq.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390628/images/Projects/KoloaLanding/lihak-villa-0059-hor-wide_w98dnl.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390276/images/Projects/KoloaLanding/KoloaPool_w7p20x.jpg"
+    ],
+    "category": "hospitality",
+    "stats": [
+      {
+        "type": "keys",
+        "text": "306"
+      },
+      {
+        "type": "year Completed",
+        "text": "2008"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Resort"
+      },
+      {
+        "type": "Location",
+        "text": "Kauai, HI"
       }
     ]
   }
