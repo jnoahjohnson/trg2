@@ -34,9 +34,9 @@ export default function BlogSection({
           </div>
           <div className="mt-6 flex items-center">
             <div className="flex-shrink-0">
-                <span className="sr-only">{author.name}</span>
+              <span className="sr-only">{author.name}</span>
             </div>
-            <div className="ml-3">
+            <div>
               <p className="text-sm font-medium text-gray-200">
                 <a href={author.href} className="hover:underline">
                   {author.name}
