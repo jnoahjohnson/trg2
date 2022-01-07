@@ -53,7 +53,7 @@ export default function ProjectSection() {
   };
 
   return (
-    <div className="px-4 max-w-5xl mx-auto py-8">
+    <div className="px-4 max-w-5xl 2xl:max-w-7xl mx-auto py-8">
       <h1 className="text-3xl font-bold mb-2">Project Highlights</h1>
       <ul className="italic flex gap-6 mb-1">
         <li>

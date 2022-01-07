@@ -8,7 +8,7 @@ export default function TeamCard({ name, headshot, title, bio, linkedin }) {
       <div className="relative w-full h-96 flex items-end p-6 transition-all duration-300 group">
         <img
           src={headshot}
-          className="object-cover w-full h-full absolute inset-0"
+          className="object-cover object-top w-full h-full absolute inset-0"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-gray-800 to-gray-400 mix-blend-multiply hover:bg-sushi transition-all duration-300 opacity-0 group-hover:opacity-50"></div>
         <div className="relative opacity-0 group-hover:opacity-100 transition duration-150">
@@ -34,18 +34,22 @@ export default function TeamCard({ name, headshot, title, bio, linkedin }) {
             X
           </XIcon>
           <div className="flex flex-col md:flex-row w-full h-full pt-12 md:p-0">
-            <div className="relative flex-1 h-full w-1/4 max-w-xl mr-4 mb-2 md:mb-0">
+            <div className="relative hidden md:inline-flex md:flex-1 w-full md:h-full max-w-xl mr-4 mb-2 md:mb-0">
               <img
                 src={headshot}
-                className="w-full h-full object-cover object-center absolute inset-0"
+                className="w-full h-full object-cover object-top absolute inset-0"
               />
             </div>
-            <aside className="flex flex-col items-start flex-1">
+            <aside className="flex flex-col items-start flex-1 h-full">
               <div className="grid grid-col-2 gap-4">
                 <div className="flex items-end justify-center w-full">
                   <h1 className="text-5xl font-bold mr-4">{name}</h1>
                   <div className="mb-1">
-                    <a href={linkedin} class="text-gray-300 hover:text-gray-400">
+                    <a
+                      href={linkedin}
+                      class="text-gray-300 hover:text-gray-400"
+                      target="_"
+                    >
                       <span class="sr-only">LinkedIn</span>
                       <svg
                         class="h-8 w-8"

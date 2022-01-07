@@ -4,7 +4,7 @@ import Fade from "react-reveal/Fade";
 export default function StatsSection() {
   return (
     <>
-      <div className="relative grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-8 gap-6">
+      <div className="relative grid grid-cols-1 md:grid-cols-2 max-w-5xl 2xl:max-w-7xl mx-auto px-4 py-8 gap-6">
         <div
           className={`flex items-center justify-start md:justify-center w-full`}
         >
@@ -23,14 +23,17 @@ export default function StatsSection() {
           </Fade>
         </div>
         <Fade right>
-          <img src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390277/images/num-ap_r0t39d.jpg" className={`w-full h-auto z-10`} />
+          <img
+            src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390277/images/num-ap_r0t39d.jpg"
+            className={`w-full h-auto z-10`}
+          />
           <div
             style={{ backgroundImage: `url(/elements/dots.svg)` }}
             className={`w-64 h-48 absolute -right-2 bottom-4 z-0 transform transition-all duration-500 bg-cover bg-no-repeat `}
           />
         </Fade>
       </div>
-      <div className="relative grid grid-cols-1 md:grid-cols-2 max-w-5xl mx-auto px-4 py-12 gap-6">
+      <div className="relative grid grid-cols-1 md:grid-cols-2 max-w-5xl 2xl:max-w-7xl mx-auto px-4 py-12 gap-6">
         <div className="flex items-center justify-start md:justify-center w-full md:col-start-2">
           <Fade right>
             <div className="w-32 h-32 border-solid border-sushi border-4 flex items-center">

@@ -5,7 +5,7 @@ import team from "../data/team.json";
 ---
 
 <MainLayout>
-  <div class="px-4 max-w-5xl mx-auto py-8">
+  <div class="px-4 max-w-5xl 2xl:max-w-7xl mx-auto py-8">
     <h1 class="text-5xl font-bold mb-2">About Us</h1>
     <div class="px-10 max-w-7xl mx-auto py-16">
       <h2 class="text-xl">
@@ -29,13 +29,14 @@ import team from "../data/team.json";
     </div>
     <h1 class="text-5xl font-bold mb-2">Meet The Team</h1>
     <br />
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+    <div class="grid grid-cols-1 md:grid-cols-3 2xl:grid-cols-4 gap-4 mb-4">
       {team.map((team) => (
         <TeamCard
           name={team.name}
           headshot={team.headshot}
           title={team.title}
           bio={team.bio}
+          linkedin={team.linkedin}
           client:load
         />
       ))}

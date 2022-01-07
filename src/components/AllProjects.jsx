@@ -12,7 +12,7 @@ export default function ProjectSection() {
   };
 
   return (
-    <div className="px-4 max-w-5xl mx-auto py-8">
+    <div className="px-4 max-w-5xl 2xl:max-w-7xl mx-auto py-8">
       <h1 className="text-5xl font-bold mb-2">Projects</h1>
       <ul className="italic flex gap-6 mb-1 text-lg">
         <li>
@@ -39,7 +39,7 @@ export default function ProjectSection() {
           There are no projects with this cateogry.
         </p>
       )}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 2xl:grid-cols-4 gap-4 mb-4">
         {currentProjects.map((project) => (
           <ProjectCard
             key={project.id}
