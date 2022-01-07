@@ -34,13 +34,13 @@ export default function TeamCard({ name, headshot, title, bio }) {
             X
           </XIcon>
           <div className="flex flex-col md:flex-row w-full h-full pt-12 md:p-0">
-            <div className="relative w-full h-96 md:h-full md:w-96 mr-4 mb-2 md:mb-0">
+            <div className="relative flex-1 h-full w-1/4 max-w-xl mr-4 mb-2 md:mb-0">
               <img
                 src={headshot}
                 className="w-full h-full object-cover object-center absolute inset-0"
               />
             </div>
-            <aside className="flex flex-col items-start">
+            <aside className="flex flex-col items-start flex-1">
               <div className="grid grid-col-2 gap-4">
                 <div className="flex items-end justify-center w-full">
                   <h1 className="text-5xl font-bold mr-4">{name}</h1>
@@ -65,7 +65,7 @@ export default function TeamCard({ name, headshot, title, bio }) {
               </div>
               <br />
               <p className="mb-2 text-2xl">{title}</p>
-              <p className="text-2xl">{bio}</p>
+              <p className="text-2xl overflow-y-scroll">{bio}</p>
             </aside>
           </div>
         </div>
