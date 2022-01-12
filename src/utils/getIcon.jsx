@@ -19,9 +19,9 @@ export default function getIcon(type) {
       return <HashtagIcon />;
     case "keys":
       return <HashtagIcon />;
-    case "startYear":
+    case "yearStarted":
       return <CalendarIcon />;
-    case "completedYear":
+    case "yearCompleted":
       return <CalendarIcon />;
     case "status":
       return <OfficeBuildingIcon />;

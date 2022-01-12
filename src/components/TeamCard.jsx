@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { XIcon } from "@heroicons/react/outline";
 
-export default function TeamCard({ name, headshot, title, bio, linkedin }) {
+export default function TeamCard({ name, headshot, title, biop1, biop2, biop3, biop4, linkedin }) {
   let [isOpen, setIsOpen] = useState(false);
   return (
     <div>
@@ -68,8 +68,13 @@ export default function TeamCard({ name, headshot, title, bio, linkedin }) {
                 </div>
               </div>
               <br />
-              <p className="mb-2 text-2xl">{title}</p>
-              <p className="text-2xl overflow-y-scroll">{bio}</p>
+              <p className="mb-2 text-2xl font-bold">{title}</p>
+              <div className="overflow-y-scroll">
+                <p className="text-2xl mb-4">{biop1}</p>
+                <p className="text-2xl mb-4">{biop2}</p>
+                <p className="text-2xl mb-4">{biop3}</p>
+                <p className="text-2xl">{biop4}</p>
+              </div>
             </aside>
           </div>
         </div>
