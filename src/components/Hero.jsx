@@ -5,7 +5,7 @@ export default function Hero() {
   useEffect(() => {
     var interval = window.setInterval(() => {
       setCurrentSlide((prevSlide) => (prevSlide === 3 ? 1 : prevSlide + 1));
-    }, 3000);
+    }, 4000);
 
     return () => {
       clearInterval(interval);
@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <div className="w-full h-128 bg-white relative">
       <img
-        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg"
+        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg"
         className={`w-full h-full object-cover object-center absolute inset-0 ${
           currentSlide === 1
             ? "translate-x-0 transition-transform duration-1000"

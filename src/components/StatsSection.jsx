@@ -24,7 +24,7 @@ export default function StatsSection() {
         </div>
         <Fade right>
           <img
-            src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390277/images/num-ap_r0t39d.jpg"
+            src="https://res.cloudinary.com/dgjw3jwe3/image/upload/w_550/q_auto/v1638390277/images/num-ap_r0t39d.jpg"
             className={`w-full h-auto z-10`}
           />
           <div
@@ -51,7 +51,7 @@ export default function StatsSection() {
         </div>
         <Fade left>
           <img
-            src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638391095/images/Projects/XR1/Interior_2_b3sbrx.jpg"
+            src="https://res.cloudinary.com/dgjw3jwe3/image/upload/w_550/q_auto/v1638391095/images/Projects/XR1/Interior_2_b3sbrx.jpg"
             className={`w-full h-auto transform z-10 md:col-start-1 md:row-start-1`}
           />
           <div
