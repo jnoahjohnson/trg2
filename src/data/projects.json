@@ -1,25 +1,28 @@
 [
   {
-    "id": "10",
-    "title": "Oakwood Mundy Mills",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
+    "id": "13",
+    "title": "The Charles",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
     "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C05_lnvkny.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg"
     ],
     "category": "multi-family",
     "stats": [
       {
         "type": "units",
-        "text": "248"
+        "text": "240"
       },
       {
         "type": "year Started",
-        "text": "2022"
+        "text": "2019"
       },
       {
         "type": "status",
-        "text": "Pre-Development"
+        "text": "Under Construction"
       },
       {
         "type": "type",
@@ -27,7 +30,7 @@
       },
       {
         "type": "location",
-        "text": "Oakwood, GA"
+        "text": "Salt Lake City, UT"
       }
     ]
   },
@@ -116,80 +119,6 @@
       {
         "type": "year Started",
         "text": "2020"
-      },
-      {
-        "type": "status",
-        "text": "Under Construction"
-      },
-      {
-        "type": "type",
-        "text": "Ground Up"
-      },
-      {
-        "type": "location",
-        "text": "Salt Lake City, UT"
-      }
-    ]
-  },
-  {
-    "id": "11",
-    "title": "Northridge Apartments",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR2_irmtat.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR3_czgdoa.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR6_k83ezn.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR7_zybsbb.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR5_xni12w.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR8_jf9ufn.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR4_ic9hao.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466351/images/Projects/NorthridgeApts/NORTHRIDGE_logo_f5inyr.jpg"
-    ],
-    "category": "multi-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "100"
-      },
-      {
-        "type": "year Started",
-        "text": "2021"
-      },
-      {
-        "type": "status",
-        "text": "Completed"
-      },
-      {
-        "type": "type",
-        "text": "Value Add Remodel"
-      },
-      {
-        "type": "location",
-        "text": "Weber County, UT"
-      }
-    ]
-  },
-  {
-    "id": "13",
-    "title": "The Charles",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C03_ykdwwy.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C05_lnvkny.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638464518/images/Projects/TheCharles/C04-2_jcfslk.jpg"
-    ],
-    "category": "multi-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "240"
-      },
-      {
-        "type": "year Started",
-        "text": "2019"
       },
       {
         "type": "status",
@@ -386,43 +315,6 @@
     ]
   },
   {
-    "id": "1",
-    "title": "Midtown 360",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419505/images/Projects/Midtown360/Midtown_360_HR_106_of_116_edit_x66rmh.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419229/images/Projects/Midtown360/Midtown_360_HR_114_of_116_edit_gt95rs.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419225/images/Projects/Midtown360/Midtown_360_MR_14_of_116_edit_af5kvn.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4660_WEB_clyehp.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4396_WEB_na148g.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419223/images/Projects/Midtown360/_LLC4593_WEB_tqvmuq.jpg"
-    ],
-    "category": "multi-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "390"
-      },
-      {
-        "type": "year Completed",
-        "text": "2018"
-      },
-      {
-        "type": "status",
-        "text": "Completed"
-      },
-      {
-        "type": "type",
-        "text": "Adaptive Reuse"
-      },
-      {
-        "type": "location",
-        "text": "Orem, UT"
-      }
-    ]
-  },
-  {
     "id": "9",
     "title": "Element 31",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419582/images/Projects/Element31/Element_31_MR_7_of_76_ewf2w8.jpg",
@@ -476,6 +368,114 @@
       {
         "type": "location",
         "text": "Salt Lake City, UT"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Oakwood Mundy Mills",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "248"
+      },
+      {
+        "type": "year Started",
+        "text": "2022"
+      },
+      {
+        "type": "status",
+        "text": "Pre-Development"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Oakwood, GA"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Northridge Apartments",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466354/images/Projects/NorthridgeApts/NR1_s6a559.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR2_irmtat.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466353/images/Projects/NorthridgeApts/NR3_czgdoa.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR6_k83ezn.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR7_zybsbb.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR5_xni12w.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR8_jf9ufn.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466352/images/Projects/NorthridgeApts/NR4_ic9hao.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638466351/images/Projects/NorthridgeApts/NORTHRIDGE_logo_f5inyr.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "100"
+      },
+      {
+        "type": "year Started",
+        "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Value Add Remodel"
+      },
+      {
+        "type": "location",
+        "text": "Weber County, UT"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Midtown 360",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419505/images/Projects/Midtown360/Midtown_360_HR_106_of_116_edit_x66rmh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419229/images/Projects/Midtown360/Midtown_360_HR_114_of_116_edit_gt95rs.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419225/images/Projects/Midtown360/Midtown_360_MR_14_of_116_edit_af5kvn.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4660_WEB_clyehp.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419224/images/Projects/Midtown360/_LLC4396_WEB_na148g.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419223/images/Projects/Midtown360/_LLC4593_WEB_tqvmuq.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "390"
+      },
+      {
+        "type": "year Completed",
+        "text": "2018"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Adaptive Reuse"
+      },
+      {
+        "type": "location",
+        "text": "Orem, UT"
       }
     ]
   },  
