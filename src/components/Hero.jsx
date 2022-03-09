@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <div className="w-full h-128 bg-white relative">
       <img
-        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg"
+        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638464518/images/Projects/TheCharles/C01_ozsslm.jpg"
         className={`w-full h-full object-cover object-center absolute inset-0 ${
           currentSlide === 1
             ? "translate-x-0 transition-transform duration-1000"
@@ -26,7 +26,7 @@ export default function Hero() {
         }`}
       />
       <img
-        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg"
+        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638419234/images/Projects/Midtown360/Midtown_360_HR_112_of_116_edit_adnzhu.jpg"
         className={`w-full h-full object-cover object-center absolute inset-0 ${
           currentSlide === 2
             ? "translate-x-0 transition-transform duration-1000"
@@ -38,7 +38,7 @@ export default function Hero() {
         }`}
       />
       <img
-        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1638390991/images/Projects/LeMeridien/C05-Edited_eahsrb.jpg"
+        src="https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638390991/images/Projects/LeMeridien/C05-Edited_eahsrb.jpg"
         className={`w-full h-full object-cover object-center absolute inset-0 ${
           currentSlide === 3
             ? "translate-x-0 transition-transform duration-1000"
