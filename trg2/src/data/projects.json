@@ -1,5 +1,36 @@
 [
   {
+    "id": "28",
+    "title": "The Grid",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668112165/images/Projects/TheGrid/C031_sdkdyb.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668111857/images/Projects/TheGrid/C01_mteogu.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668112165/images/Projects/TheGrid/C031_sdkdyb.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668112018/images/Projects/TheGrid/C041_c9vldf.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668111857/images/Projects/TheGrid/C05_bzsgnh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668111857/images/Projects/TheGrid/C06_wyr7ww.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "321"
+      },
+      {
+        "type": "status",
+        "text": "Preconstruction"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
+      }
+    ]
+  },
+  {
     "id": "13",
     "title": "The Charles",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638464809/images/Projects/TheCharles/C06_-Edited_d2w5i4.jpg",
@@ -101,6 +132,174 @@
     ]
   },
   {
+    "id": "29",
+    "title": "Quadrant 1",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668117300/images/Projects/Quadrant1/G-Bar_-_Day_irv6r7.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1668117299/images/Projects/Quadrant1/G-Bar_-_Night_nz7f73.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "1,011,710"
+      },
+      {
+        "type": "year Completed",
+        "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Cross Dock"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "XR International III",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside3_gdrcug.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside6_avh7wh.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-2_sc1ymz.png",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside5_e4xcdy.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside4-jpg_z9jxc6.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside1_zixdcw.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810190/images/Projects/XR3/XR3-inside2_bwwhhl.jpg"
+    ],
+    "category": "industrial",
+    "stats": [
+      {
+        "type": "squareFeet",
+        "text": "325,000"
+      },
+      {
+        "type": "year Completed",
+        "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Completed"
+      },
+      {
+        "type": "type",
+        "text": "Cross Dock"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "The Stack",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606520/images/Projects/TheStack/C02_hodnry.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606520/images/Projects/TheStack/C03_b1wowe.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606438/images/Projects/TheStack/C01_ipkwzr.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606368/images/Projects/TheStack/C04_x9cvhy.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606363/images/Projects/TheStack/C05_vfhwki.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "254"
+      },
+      {
+        "type": "year Started",
+        "text": "2020"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "The Arden",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "240"
+      },
+      {
+        "type": "year Started",
+        "text": "2019"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, UT"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "The Arza",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418812/images/Projects/AF860/AF_Carriage_-_Clubhouse_ds29me.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "512"
+      },
+      {
+        "type": "year Started",
+        "text": "2021"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "type",
+        "text": "Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "American Fork, UT"
+      }
+    ]
+  },
+  {
     "id": "5",
     "title": "XR International I",
     "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638391095/images/Projects/XR1/IMG_5595_e6psd9.jpg",
@@ -136,38 +335,6 @@
       {
         "type": "location",
         "text": "Salt Lake City, UT"
-      }
-    ]
-  },
-  {
-    "id": "7",
-    "title": "AF II",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418825/images/Projects/AF860/AF_Clubhouse_-_Carriage_qk0bhi.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418812/images/Projects/AF860/AF_Carriage_-_Clubhouse_ds29me.jpg"
-    ],
-    "category": "multi-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "512"
-      },
-      {
-        "type": "year Started",
-        "text": "2021"
-      },
-      {
-        "type": "status",
-        "text": "Under Construction"
-      },
-      {
-        "type": "type",
-        "text": "Ground Up"
-      },
-      {
-        "type": "location",
-        "text": "American Fork, UT"
       }
     ]
   },
@@ -242,75 +409,6 @@
       {
         "type": "location",
         "text": "American Fork, UT"
-      }
-    ]
-  },
-  {
-    "id": "15",
-    "title": "XR International III",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810192/images/Projects/XR3/XR3_hnleoo.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside3_gdrcug.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside6_avh7wh.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-2_sc1ymz.png",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside5_e4xcdy.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside4-jpg_z9jxc6.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810191/images/Projects/XR3/XR3-inside1_zixdcw.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638810190/images/Projects/XR3/XR3-inside2_bwwhhl.jpg"
-    ],
-    "category": "industrial",
-    "stats": [
-      {
-        "type": "squareFeet",
-        "text": "325,000"
-      },
-      {
-        "type": "year Completed",
-        "text": "2021"
-      },
-      {
-        "type": "status",
-        "text": "Completed"
-      },
-      {
-        "type": "type",
-        "text": "Cross Dock"
-      },
-      {
-        "type": "location",
-        "text": "Salt Lake City, UT"
-      }
-    ]
-  },
-  {
-    "id": "14",
-    "title": "The Stack",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638464605/images/Projects/TheStack/Brickyard_exterior_ya1zcp.jpg"
-    ],
-    "category": "mulit-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "254"
-      },
-      {
-        "type": "year Started",
-        "text": "2020"
-      },
-      {
-        "type": "status",
-        "text": "Under Construction"
-      },
-      {
-        "type": "type",
-        "text": "Ground Up"
-      },
-      {
-        "type": "location",
-        "text": "Salt Lake City, UT"
       }
     ]
   },
@@ -407,38 +505,6 @@
       {
         "type": "location",
         "text": "Weber County, UT"
-      }
-    ]
-  },
-  {
-    "id": "10",
-    "title": "Oakwood Mundy Mills",
-    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
-    "carousel": [
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418990/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_2_fddvbm.jpg",
-      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1638418989/images/Projects/Oakwood/210231_Oakwood_Mundy_Mills_3D_Renderings_09-23-2021_Page_1_rvmnc8.jpg"
-    ],
-    "category": "multi-family",
-    "stats": [
-      {
-        "type": "units",
-        "text": "240"
-      },
-      {
-        "type": "year Started",
-        "text": "2019"
-      },
-      {
-        "type": "status",
-        "text": "Under Construction"
-      },
-      {
-        "type": "type",
-        "text": "Ground Up"
-      },
-      {
-        "type": "location",
-        "text": "Salt Lake City, UT"
       }
     ]
   },
@@ -976,6 +1042,38 @@
       {
         "type": "Location",
         "text": "Kauai, HI"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "South Temple Apartments",
+    "image": "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606204/images/Projects/SouthTemple/South_Temple_Noutheast_View_d4purg.jpg",
+    "carousel": [
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606201/images/Projects/SouthTemple/South_Temple_Southeast_View_ut6khl.jpg",
+      "https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1662606204/images/Projects/SouthTemple/South_Temple_Noutheast_View_d4purg.jpg"
+    ],
+    "category": "multi-family",
+    "stats": [
+      {
+        "type": "units",
+        "text": "121"
+      },
+      {
+        "type": "year Started",
+        "text": "2022"
+      },
+      {
+        "type": "status",
+        "text": "Under Construction"
+      },
+      {
+        "type": "type",
+        "text": "Remodel + Ground Up"
+      },
+      {
+        "type": "location",
+        "text": "Salt Lake City, Ut"
       }
     ]
   }

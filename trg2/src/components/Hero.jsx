@@ -56,8 +56,8 @@ export default function Hero() {
               {currentSlide === 1
                 ? "Hospitality"
                 : currentSlide === 2
-                ? "Multi-Family"
-                : "Hospitality"}
+                ? "Industrial"
+                : "Multi-Family"}
             </h1>
             <h1 className="font-bold text-white text-4xl uppercase">
               The

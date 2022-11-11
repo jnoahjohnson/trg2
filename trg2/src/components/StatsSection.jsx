@@ -10,7 +10,7 @@ export default function StatsSection() {
         >
           <Fade left>
             <div className="w-32 h-32 border-solid border-sushi border-4 flex items-center">
-              <h2 className="text-7xl font-bold ml-6">3124</h2>
+              <h2 className="text-7xl font-bold ml-6">3598</h2>
             </div>
             <div className="w-24"></div>
             <div className="h-full flex items-center font-normal text-lg">
@@ -37,7 +37,7 @@ export default function StatsSection() {
         <div className="flex items-center justify-start md:justify-center w-full md:col-start-2">
           <Fade right>
             <div className="w-32 h-32 border-solid border-sushi border-4 flex items-center">
-              <h2 className="text-7xl font-bold ml-10">4.2</h2>
+              <h2 className="text-7xl font-bold ml-10">7.9</h2>
             </div>
             <div className="w-12"></div>
             <div className="h-full flex items-center font-normal text-lg">
