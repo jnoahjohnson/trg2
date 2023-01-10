@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { XIcon } from "@heroicons/react/24/outline";
+import { XMarkIcon } from "@heroicons/react/24/outline";
 
 export default function TeamCard({ name, headshot, title, biop1, biop2, biop3, biop4, linkedin }) {
   let [isOpen, setIsOpen] = useState(false);
@@ -27,12 +27,12 @@ export default function TeamCard({ name, headshot, title, biop1, biop2, biop3, b
           onClick={() => setIsOpen(false)}
         ></div>
         <div className="absolute inset-0 md:w-2/3 md:h-2/3 bg-darkbg m-auto p-4 shadow-lg">
-          <XIcon
+          <XMarkIcon
             onClick={() => setIsOpen(false)}
             className="text-white absolute top-4 right-4 w-8 h-8 hover:text-gray-300 cursor-pointer"
           >
             X
-          </XIcon>
+          </XMarkIcon>
           <div className="flex flex-col md:flex-row w-full h-full pt-12 md:p-0">
             <div className="relative hidden md:inline-flex md:flex-1 w-full md:h-full max-w-xl mr-4 mb-2 md:mb-0">
               <img
