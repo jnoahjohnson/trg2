@@ -1,0 +1,73 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import GiveBackLogos from "../components/GiveBackLogos.jsx";
+import giveBack from "../data/giveBack.json";
+---
+
+<MainLayout>
+  <div class="w-full h-128 relative">
+    <img
+      src="https://images.unsplash.com/photo-1524813686514-a57563d77965?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80"
+      class="w-full h-full object-cover object-center absolute inset-0 z-10"
+    />
+    <div
+      class="absolute inset-0 bg-gray-500 mix-blend-multiply w-full h-full z-20"
+    >
+    </div>
+    <div
+      class="max-w-7xl mx-auto aboslute z-30 inset-0 flex flex-col items-center justify-center w-full h-full py-6 px-6"
+    >
+      <h1 class="text-6xl mb-4 text-center z-30 text-gray-300 font-medium">
+        We Value
+      </h1>
+      <h1 class="text-7xl font-bold mb-8 text-center z-30">
+        Giving Back to Our Community
+      </h1>
+    </div>
+  </div>
+
+  <div class="px-4 max-w-5xl 2xl:max-w-7xl mx-auto py-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 mb-12 py-10">
+      <div class="w-full h-full flex items-center justify-center">
+        <h1 class="text-2xl mb-2 text-justify">
+          60 years ago, David B. Haight gave to me the Formula for Success and
+          HAPPINESS. The Ritchie Foundation was a product of his Six Step
+          Vision. He gave us the Formula for how to be successful in life, but
+          warned us that most of the time when we accumulate a great Balance
+          Sheet it will often also be the product for the destruction of our
+          character as it is usually followed by Pride. But, he said, if we will
+          work on becoming successful In the temporal affairs of life with the
+          intent to use that success to GIVE BACK or SERVE OTHERS, we will
+          usually be able to remain humble enough to keep the faith and it is
+          also the secret of our HAPPINESS. And with that sage counsel the
+          Ritchie Foundation was born, first in our mind, and then in our
+          behavior, as we have tried to focus on GIVING BACK and SERVING OTHERS
+          with our Temporal Successes.
+        </h1>
+      </div>
+      <div>
+        <h1 class="text-2xl font-bold mb-8 text-center">
+          Founder James Ritchie
+        </h1>
+        <img
+          class="mx-auto"
+          src="https://res.cloudinary.com/dgjw3jwe3/image/upload/q_auto,f_auto/v1641517366/images/Headshots-1-2022/James_and_Carolyn_Ritchie_kdse3k.jpg"
+        />
+      </div>
+    </div>
+
+    <h1 class="text-4xl font-bold mb-2 text-center mb-6 py-6">
+      Organizations We have Supported
+    </h1>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+      {giveBack.map((logo) => (
+        <GiveBackLogos
+          title={logo.title}
+          image={logo.image}
+          info={logo.info}
+          client:load
+        />
+      ))}
+    </div>
+  </div></MainLayout
+>
