@@ -1,7 +1,7 @@
 /* This example requires Tailwind CSS v2.0+ */
 import React, { Fragment } from "react";
 import { Dialog, Transition } from "@headlessui/react";
-import { ExclamationIcon, XIcon } from "@heroicons/react/24/outline";
+import { ExclamationIcon, XMarkIcon } from "@heroicons/react/24/outline/esm/index";
 
 export default function TeamModal({ open, setOpen }) {
   return (
@@ -48,7 +48,7 @@ export default function TeamModal({ open, setOpen }) {
                   onClick={() => setOpen(false)}
                 >
                   <span className="sr-only">Close</span>
-                  <XIcon className="h-6 w-6" aria-hidden="true" />
+                  <XMarkIcon className="h-6 w-6" aria-hidden="true" />
                 </button>
               </div>
               <div className="sm:flex sm:items-start">

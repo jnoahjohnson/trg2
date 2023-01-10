@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   return projects.map((project) => ({ params: { id: project.id } }));
 }
 
-const { id } = Astro.request.params;
+const { id } = Astro.params;
 const project = projects.filter((project) => project.id === id).at(0);
 ---
 

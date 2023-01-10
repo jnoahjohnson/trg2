@@ -1,6 +1,6 @@
-import { HashtagIcon } from "@heroicons/react/24/outline";
+
 import React from "react";
-import getIcon from "../utils/getIcon.js";
+import { getIcon } from "../utils/getIcon.tsx";
 import getDisplayName from "../utils/getDisplayName.js";
 
 export default function ProjectStats({ stats }) {

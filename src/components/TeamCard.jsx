@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { XMarkIcon } from "@heroicons/react/24/outline";
+import { XMarkIcon } from "@heroicons/react/24/outline/esm/index";
 
 export default function TeamCard({ name, headshot, title, biop1, biop2, biop3, biop4, linkedin }) {
   let [isOpen, setIsOpen] = useState(false);

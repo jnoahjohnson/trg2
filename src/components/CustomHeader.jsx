@@ -1,7 +1,7 @@
 /* This example requires Tailwind CSS v2.0+ */
 import React, { Fragment, useState } from "react";
 import { Popover, Transition } from "@headlessui/react";
-import { XMarkIcon, Bars3Icon } from "@heroicons/react/24/outline";
+import { XMarkIcon, Bars3Icon } from "@heroicons/react/24/outline/esm/index";
 
 export const CustomHeader = () => {
   const [showMenu, setShowMenu] = useState(false)

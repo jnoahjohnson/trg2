@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import projects from "../data/projects.json";
 import ProjectCard from "./ProjectCard";
-import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
+import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline/esm/index";
 
 export default function ProjectSection() {
   const [currentProjects, setCurrentProjects] = useState(projects);

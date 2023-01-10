@@ -1,19 +1,16 @@
 import {
-  CakeIcon,
-  CameraIcon,
-  CogIcon,
-  HashtagIcon,
-  LocationMarkerIcon,
-  PhotographIcon,
+  BuildingOfficeIcon,
   CalendarIcon,
-  OfficeBuildingIcon,
-  CurrencyDollarIcon, 
-  ViewBoardsIcon,
-  ClipboardListIcon,
+  ClipboardDocumentListIcon,
+  CogIcon,
+  CurrencyDollarIcon,
+  HashtagIcon,
+  MapPinIcon,
+  Squares2X2Icon,
   VideoCameraIcon,
-} from "@heroicons/react/24/outline";
+} from "@heroicons/react/24/outline/esm/index";
 
-export default function getIcon(type) {
+export const getIcon = (type: any) => {
   switch (type) {
     case "units":
       return <HashtagIcon />;
@@ -24,18 +21,18 @@ export default function getIcon(type) {
     case "yearCompleted":
       return <CalendarIcon />;
     case "status":
-      return <OfficeBuildingIcon />;
+      return <BuildingOfficeIcon />;
     case "developmentalBudget":
       return <CurrencyDollarIcon />;
     case "location":
-      return <LocationMarkerIcon />;
+      return <MapPinIcon />;
     case "squareFeet":
-      return <ViewBoardsIcon />;
+      return <Squares2X2Icon />;
     case "type":
-      return <ClipboardListIcon />;
+      return <ClipboardDocumentListIcon />;
     case "liveVideo":
-      return <VideoCameraIcon />; 
+      return <VideoCameraIcon />;
     default:
       return <CogIcon />;
   }
-}
+};
