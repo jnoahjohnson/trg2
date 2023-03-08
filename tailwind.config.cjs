@@ -10,10 +10,10 @@ module.exports = {
       },
       colors: {
         darkbg: {
-          DEFAULT: "hsl(0, 0%, 15%)",
+          DEFAULT: "hsl(0, 0%, 0%)",
           dark: "hsl(219, 10%, 7%)",
         },
-        sushi: "hsl(84, 46%, 44%)",
+        sushi: "hsl(10, 5%, 60%)", //"hsl(84, 46%, 44%)", -- bright green color
         rblue: {
           DEFAULT: "hsla(207, 88%, 37%, 1.00)",
           dark: "hsla(218, 57%, 23%, 1.00)",

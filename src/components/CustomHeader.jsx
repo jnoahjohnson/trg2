@@ -13,7 +13,7 @@ export const CustomHeader = () => {
             <span className="sr-only">The Ritchie Group</span>
             <img
               className="md:h-14 w-auto h-12"
-              src="/assets/logo.png"
+              src="https://res.cloudinary.com/dgjw3jwe3/image/upload/v1677732582/images/Logos/CLIENT/Ritchie_Group_Logo_Horizontal_Reverse_skinny_vffj03.png"
               alt="The Ritchie Group"
             />
           </a>
